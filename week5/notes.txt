@@ -1,0 +1,13 @@
+
+repretitive
+switch first slides
+educational times first
+picture with the times
+talk about heroke with future work
+check capitalization with csv/python
+what does notebook do?  what algorithms and graphs available?
+	NetworkX - not solution, algorithms
+	notebook is solution
+
+examples for obstacles, maybe picture of example from graph
+`
