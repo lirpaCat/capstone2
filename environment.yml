@@ -1,7 +1,4 @@
 channels: !!python/object/new:ruamel_yaml.comments.CommentedSeq
-  listitems:
-  - spacy
-  - defaults
   state:
     _yaml_format: !!python/object:ruamel_yaml.comments.Format
       _flow_style: false
