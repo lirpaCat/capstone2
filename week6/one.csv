@@ -1,0 +1,875 @@
+-13	1	12/01/48	An Esteemed Correspondent	J. Alsop ;Digamma *;Thomas Cranstoun *;John Giblin *;J.M. *	1;	Jan-49;	xx;xx	41;
+-12	1	01/01/49	T. Morley	Unknown ;T.J.L. 	1;	Feb-49;Feb-49	xx;xx	9;
+-11	1	02/01/49	T.J.L. 	J.W. 	1	03/01/49	xx	41
+-10	1	02/01/49	Enquirer	T. Morley 	1	03/01/49	xx	22
+-9	1	03/01/49	Thomas Morley	J.W. 	1	04/01/49	xx	22
+-8	1	04/01/49	Thomas Morley	UNKNOWN;UNKNOWN	1;1	May-49;Jun-49	xx;xx	41;
+-7	1	04/01/49	Collegian	J.W. 	1	05/01/49	xx	22
+-6	1	05/01/49	Gomphos					3
+-5	1	05/01/49	S.A.G.					74
+-4	1	06/01/49	Geometricus	 UNKNOWN	1	07/01/49	xx	47
+-3	1	06/01/49	 UNKNOWN	J.W. 	1	07/01/49	xx	22
+-2	1	07/01/49	Geometricus	 UNKNOWN	2	08/01/49	xx	41
+-1	1	07/01/49	J.W.					22
+1	2	08/01/49	Geometricus	Thomas Wilkinson 	2	09/01/49	xx	41
+2	2	08/01/49	Philo-Mathematicus	Thomas Wilkinson	2	09/01/49	xx	46
+3	2	09/01/49						41
+4	2	09/01/49	Theta	Thomas Wilkinson 	3	11/01/49	xx	47
+5	2	09/01/49	Theta	Thomas Wilkinson 	3	10/01/49	xx	41
+6	2	09/01/49	Theta	Thomas Wilkinson 	3	10/01/49	xx	61
+7	2	09/01/49	Thomas Wilkinson	Thomas Wilkinson 	3	10/01/49	xx	41
+8	2	09/01/49	Thomas Wilkinson	Thomas Wilkinson 	3	10/01/49	xx	41
+9	2	09/01/49	Geometricus	Thomas Wilkinson 	3	12/01/49	xx	47
+10	3	10/01/49	 UNKNOWN	J.S. ;Thomas Wilkinson *;J.M. [of Biggleswade] *	3;3;3	Nov-49;Nov-49;Nov-49	xx;xx;xx	47;;
+11	3	10/01/49	 UNKNOWN	J.S. ;Thomas Wilkinson *;J.M. [of Biggleswade] *	3;3;3	Nov-49;Nov-49;Nov-49	xx;xx;xx	22;;
+12	3	10/01/49	Thomas Morley	J.S. ;Thomas Wilkinson *;J.M. [from Plymouth] *	3;3;3	Nov-49;Nov-49;Nov-49	xx;xx;xx	41;;
+13	3	11/01/49	Thomas Wilkinson	Thomas Wilkinson 	3	12/01/49	xx	4
+14	3	11/01/49	Thomas Wilkinson	Thomas Wilkinson 	3	12/01/49	xx	44
+15	3	11/01/49	Thomas Wilkinson	J.M. [of Biggleswade] ;Thomas Wilkinson *	3;3	Dec-49;Dec-49	xx;xx	41;
+16	3	11/01/49	Septimus Tebay	Septimus Tebay	3	12/01/49	xx	18
+17	3	11/01/49	Geometricus	Geometricus 	3	12/01/49	xx	47
+18	3	12/01/49	Thomas Wilkinson	J.W. ;J.S. *;T. Wilkinson * 	3;3;3	Jan-50;Jan-50;Jan-50	xx;xx;xx	41;;
+19	3	12/01/49	Thomas Wilkinson	Thomas Wilkinson ;J.S. *;Septimus Tebay *	3;3;3	Jan-50;Jan-50;Jan-50	xx;xx;xx	41;;
+20	3	12/01/49	Septimus Tebay	Thomas Wilkinson ;Septimus Tebay 	3;3	Jan-50;Jan-50	xx;xx	44;
+21	3	12/01/49	Geometricus	Geometricus 	3	01/01/50	xx	47
+22	3	01/01/50	Thomas Wilkinson	J.M. [from Plymouth] ;T. Wilkinson *;Henry Moors *;L. Smith *	3;3;3;3	Feb-50;Feb-50;Mar-50;Mar-50	xx;xx;xx;xx	74;;;
+23	3	01/01/50	Thomas Wilkinson	Thomas Wilkinson ;L. Smith *	3;3	Feb-50;Mar-50	xx;xx	53;
+24	3	01/01/50	J.S.	J.S. 	3	02/01/50	xx	3
+25	3	01/01/50	Geometricus	Geometricus 	3	02/01/50	xx	41
+26	3	02/01/50	J. Hind 	Nemo ;L. Smith *;T. Wilkinson *;J. Simmers *;L.H. *;G. Swift *;Charles A. Agate *	3;3;3;3;3;3;3	Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50	xx;xx;xx;xx;xx;xx;xx	41;;;;;;
+27	3	02/01/50	J. Hind 	"J.M. [of Biggleswade] ; Jan 50]"";T. Wilkinson *;J. Simmers *;Charles A. Agate *;J.M. *;Lector *"	3;L. Smith *;3;3;3;3;3	Mar-50;3;Mar-50;Mar-50;Mar-50;Mar-50;May-50	xx;Mar-50;xx;xx;xx;xx;xx	41;xx
+28	3	02/01/50	J. Hind 	L. Smith ;T. Wilkinson *;J. Simmers *;L.H. *;G. Swift *;H. Trumper *	3;3;3;3;3;3	Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50	xx;xx;xx;xx;xx;xx	41;;;;;
+29	3	02/01/50	Rev. R. Wilson, D.D.;T. Wilkinson *;J. Simmers *;G. Swift *;H. Tramber 8;C. Tunnicliffe *;J.M. *;C. Frank *;Islington Schoolmaster*	L. Smith ;3;3;3;3;3;3;3;3	3;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50	Mar-50;xx;xx;xx;xx;xx;xx;xx;xx	xx	4;;;;;;;;
+30	3	02/01/50	T.H. Bott	W. Rosdin ;Henry Moors *;T. Wilkinson *;J. Simmers *;C. Tunnicliffe *;J.M. *;Islington Schoolmaster*;C.M.C. Lambeth *;T.H. Bott *;J.P.B. *;William Lundy *;Grapes *;G.G.R. *	3;3;3;3;3;3;3;3;3;3;3;3;3	Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;
+31	3	02/01/50	T. Wilkinson	L. Smith;T. Wilkinson ;J. Simmers *;L.H. *;G. Swift *;J.M. *;Grapes *;A Novice *;T. Watkins *	3;3;3;3;3;3;3;3;3	Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50;Mar-50	xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;
+32	3	02/01/50	T. Wilkinson	T. Wilkinson *	3	03/01/50	xx	41
+33	3	03/01/50	J.R.	Nemo *	3	05/01/50	xx	1
+34	3	03/01/50	L. Smith	Henry Moors ;Thomas Wilkinson *;C. Cuthbert *;John Giblin *;L. Smith *;L.H. *	3;3;3;3;3;3	Apr-50;Apr-50;Apr-50;Apr-50;Apr-50;May-50	xx;xx;xx;xx;xx;xx	41;;;;;
+35	3	03/01/50	Nemo	William Thomas Bush;W. Rosdin *	3;3	Apr-50;Apr-50	xx;xx	22;
+36	3	03/01/50	Nemo	Nemo ;C. Cuthbert *;John Giblin *;W. Rosdin *;A.D. *;W.T. Bush * (had W.J.);J. Boden *;Grapes *;Henry Moors *;J. Brookes *	3;3;3;3;3;3;3;3;3;3	Apr-50;Apr-50;Apr-50;Apr-50;Apr-50;Apr-50;Apr-50;Apr-50;Apr-50;May-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;
+37	3	03/01/50	Nemo	T. Wilkinson 	3	04/01/50	xx	41
+38	3	03/01/50	Nemo	T. Wilkinson 	3	04/01/50	xx	47
+39	3	03/01/50	Nemo	E.M. Dillon ;W.J. Bush *;Henry Moors *	3;3;3	Apr-50;Apr-50;Apr-50	xx;xx;xx	22;;
+40	3	03/01/50	Nemo	Henry Moors ;John Giblin *	3;3	Apr-50;Apr-50	xx;xx	48;
+41	3	03/01/50	T. Wilkinson	T. Wilkinson 	3	04/01/50	xx	41
+42	3	03/01/50	T. Wilkinson	T. Wilkinson ;John Giblin *	3;3	Apr-50;Apr-50	xx;xx	17;
+43	3	03/01/50	Grapes	W.J. Rosdin ;John Giblin *;Grapes *;Henry Moors *;J. Brookes *;C. Tunnicliffe *	3;3;3;3;3;3	Apr-50;Apr-50;Apr-50;Apr-50;May-50;May-50	xx;xx;xx;xx;xx;xx	9;;;;;
+44	3	04/01/50	Dr. Wilson	Nemo ;J. Brookes *;Thomas Elliott *;Digamma *;J.C. Cuthbert *;John Alsop *;W.T. Bush *;Henry Moors *;C. Tunnicliffe *;J. Giblin *;W.C. *	3;3;3;3;3;3;3;3;3;3;3	May-50;May-50;May-50;May-50;May-50;May-50;May-50;May-50;May-50;May-50;May-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;
+45	3	04/01/50	Dr. Wilson	Function ;Digamma ;Thomas Elliott *;J.C. Cuthbert *;W.C. *	3;3;3;3;3	May-50;May-50;May-50;May-50;May-50	xx;xx;xx;xx;xx	53;;;;
+46	3	04/01/50	Dr. Wilson	Thomas Elliott ;Dr. Wilson ;Digamma *;John Alsop *;Function *;J.H. *;George Swift *;Henry Moors *;J. Giblin *;W.C. *	3;3;3;3;3;3;3;3;3;3	May-50;Jul-50;May-50;May-50;May-50;May-50;May-50;May-50;May-50;May-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;
+47	3	04/01/50	H. Trumper	Digamma ;George Swift ;Thomas Elliott *;Function *;J. Giblin *	3;3;3;3;3	May-50;May 50 May 50;May-50;May-50;	xx;xx;xx;xx;xx	3;;;;
+48	3	04/01/50	T. Wilkinson	John Alsop ;Thomas Elliott *;Digamma *;Function *;J.M. *;T. Wilkinson *;Henry Moors *;J. Giblin *	3;3;3;3;3;3;3;3	May-50;May-50;May-50;May-50;May-50;May-50;May-50;May-50	xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;
+49	3	04/01/50	T. Wilkinson	John Alsop ;Thomas Elliott *;Digamma *;W.T. Bush *;Function *;T. Wilkinson *;Henry Moors *;J. Giblin *	3;3;3;3;3;3;3;3	May-50;May-50;May-50;May-50;May-50;May-50;May-50;May-50	xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;
+50	3	04/01/50	Thomas Wilkinson	John Alsop ;Digamma *;Function *;J.M. *;T. Wilkinson *;Henry Moors *;J. Giblin *;	3;3;3;3;3;3;3;3	May-50;Mat 50;May-50;May-50;May-50;May-50;May-50;May-50	xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;
+51	3	04/01/50	Thomas Wilkinson	George Swift ;Thomas Elliott *;Digamma *;T. Wilkinson *;Henry Moors *	3;3;3;3;3	May-50;May-50;May-50;May-50;May-50	xx;xx;xx;xx;xx	41;;;;
+52	3	04/01/50	John Giblin	Thomas Elliott ;Digamma *;John Alsop *;Function *;John Giblin *;Henry Moors *	3;3;3;3;3;3	May-50;May-50;May-50;May-50;May-50;May-50	xx;xx;xx;xx;xx;xx	4;;;;;
+53	3	04/01/50	Nemo	Digamma ;Thomas Elliott *;J.C. Cuthbert *;W.T. Bush *;John Alsop *;Function *;George Swift *;J.M. *;Henry Moors *;C. Tunnicliffe *;J. Giblin *	3;3;3;3;3;3;3;3;3;3;3	May-50;May-50;May-50;May-50;May-50;May-50;May-50;May-50;May-50;May-50;May-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	9;;;;;;;;;;
+54	3	05/01/50	C. Tunnicliffe	T. Elliott ;Digamma *;T.J. Leeming *;Thomas Cranstoun *;John Giblin *;C. Tunnicliffe *	3;3;3;3;3;3	Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Jun-50	xx;xx;xx;xx;xx;xx	1;;;;;
+55	3	05/01/50	W.T. Bush	W.C. ;Digamma *;T. Elliott *;T.J. Leeming *;John Giblin *;Robert Davidson *;J. Brookes *	3;3;3;3;3;3;3	Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Jun-50	xx;xx;xx;xx;xx;xx;xx	22;;;;;;
+56	3	05/01/50	T. Elliott	T. Elliott 	3	06/01/50	xx	41
+57	3	05/01/50	R. Harley	R. Harley 	3	06/01/50	xx	9
+58		MISSING						
+59	3	05/01/50	George Swift	Digamma ;T.J. Leeming *;John Giblin *;C. Tunnicliffe *;T. Wilkinson *;G. Swift *;J. Alsop *;J.M. *;G.S. Clifton*	3;3;3;3;3;3;3;3;3	Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Aug-50	xx;xx;xx;xx;xx;xx;xx;xx;xx	47;;;;;;;;
+60	3	05/01/50	T. Wilkinson	J. Alsop ;Digamma *;Thomas Cranstoun *;John Giblin *;J.M. *	3;3;3;3;3	Jun-50;Jun-50;Jun-50;Jun-50;Jun-50	xx;xx;xx;xx;xx	61;;;;
+61	3	05/01/50	T. Wilkinson	T. Wilkinson ;Digamma *	3;3	Jun-50;Jun-50	xx;xx	61;
+62	3	05/01/50	Nemo	Nemo ;Digamma *	3;3	Jun-50;Jun-50	xx;xx	22;
+63	3	05/01/50	Nemo	James Tomlinson ;Digamma *;Thomas Cranstoun *;J. Brookes *;J.M. *	3;3;3;3;3	Jun-50;Jun-50;Jun-50;Jun-50;Jun-50	xx;xx;xx;xx;xx	22;;;;
+64	3	05/01/50	Nemo	T. Wilkinson ;Digamma *;T.J. Leeming *;J. Alsop *;G.H.S. *;G.S. Clifton*	3;3;3;3;3;3	Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Aug-50	xx;xx;xx;xx;xx;xx	15;;;;;
+65	3	05/01/50	Nemo	T. Wilkinson ;Digamma *;Thomas Cranstoun *;W.C. *;J. Alsop *;G.H.S. *;E. Collins *;G.S. Clifton*	3;3;3;3;3;3;3;3	Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Aug-50	xx;xx;xx;xx;xx;xx;xx;xx	44;;;;;;;
+66	3	05/01/50	Nemo	T. Wilkinson ;Digamma *;Thomas Cranstoun *;W.C. *;J. Alsop *;J.M. *	3;3;3;3;3;3	Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Jun-50	xx;xx;xx;xx;xx;xx	3;;;;;
+67	3	05/01/50	Nemo	Digamma ;Thomas Cranstoun *;John Giblin *;J. Brookes *;T. Wilkinson *;G. Swift *;J. Tomlinson *;William Lundy *	3;3;3;3;3;3;3;3	Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Jun-50;Jun-50	xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;
+68	3	06/01/50	W.H. Hoare	G.H.S. ;J. Brookes *;George Carterfield *;Zeta *	3;3;3;3	Jul-50;Jul-50;Jul-50;Jul-50	xx;xx;xx;xx	1;;;
+69	3	06/01/50	E. Maxwell Dillon	J.M. [Biggleswade] ;G.H.S. *;J. Brookes *;George Carterfield *;Zeta *;James Tomlinson *;E.M. Dillon *;C. Tunnicliffe *	3;3;3;3;3;3;3;3	Jul-50;Jul-50;Jul-50;Jul-50;Jul-50;Jul-50;Jul-50;Jul-50	xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;
+70	3	06/01/50	W.O. Slintkin	G.H.S. ;George Carterfield *;Zeta *;J.M. [Biggleswade] *;James Tomlinson *;Clement Williams *;Wilkin Thomasson *;J.G. Blake *;T. Elliott *	3;3;3;3;3;3;3;3;3	Jul-50;Jul-50;Jul-50;Jul-50;Jul-50;Jul-50;Jul-50;Jul-50;Jul-50	xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;
+71	3	06/01/50	W.O. Slintkin	Wilkin Thomasson ;G.H.S. *;Zeta *;J.M. [Biggleswade] *	3;3;3;3	Jul-50;Jul-50;Jul-50;Jul-50	xx;xx;xx;xx	41;;;
+72	3	06/01/50	W.O. Slintkin	J. Brookes ;Wilkin Thomasson *;Terence Moran *	3;3;3	Jun-50;Jul-50;Jul-50	xx;xx;xx	22;;
+73	3	06/01/50	W.O. Slintkin	J.G. Blake ;Zeta *;J.M. *;Clement Williams *;Wilkin Thomasson *;T. Elliott *	3;3;3;3;3;3	Jul-50;Jul-50;Jul-50;Jul-50;Jul-50;Jul-50	xx;xx;xx;xx;xx;xx	9;;;;;
+74	3	06/01/50	T. Elliott	Wilkin Thomasson ;T. Elliott ;G.H.S. *	3;3;3	Jul-50;Jul-50;Jul-50	xx;xx;xx	41;;
+75	3	06/01/50	E.M. Collins	Wilkin Thomasson ;J.G. Blake ;G.H.S. *;George Carterfield *;Zeta *;E.M. Dillon *;C. Tunnicliffe *	3;3;3;3;3;3;3	Jul-50;Jul-50;Jul-50;Jul-50;Jul-50;Jul-50;Jul-50	xx;xx;xx;xx;xx;xx;xx	47;;;;;;
+76	3	06/01/50	B.H.	Wilkin Thomasson 	3	07/01/50	xx	41
+77	3	06/01/50	James Lavin					74
+78	3	06/01/50	James Lavin	Terence Moran 	3	10/01/50	xx	48
+79	3	06/01/50	Hibernicus	Digamma 	3	09/01/50	xx	51
+80	3	06/01/50	Hibernicus					41
+81	3	06/01/50	Hibernicus	Terence Moran *	3	10/01/50	xx	41
+82	3	06/01/50	Hibernicus	Terence Moran *	3	10/01/50	xx	41
+83	3	06/01/50	Hibernicus					41
+84	3	06/01/50	Hibernicus	Hibernicus 	7	06/01/54	xx	46
+85	3	06/01/50	Hibernicus	H. Moors ;George Carterfield *;J.E. Wyatt *;John Brookes *;J. Tomlinson *	3;3;3;3;3	Aug-50;Jul 50\;Aug-50;Aug-50;Aug-50	xx;xx;xx;xx;xx	22;;;;
+86	3	06/01/50	Hibernicus	Digamma	3	09/01/50	xx	41
+87	3	06/01/50	E.M. Dillon	Wilkin Thomasson ;George Carterfield *;Clement Williams *;J.R. West *	3;3;3;3	Jul-50;Jul-50;Jul-50;Jul-50	xx;xx;xx;xx	41;;;
+88	3	06/01/50	Amicus	Amicus 	4	10/01/50	xx	22
+89	3	06/01/50	Amicus	Digamma ;Hibernicus ;Amicus *;Geometricus *	3;3;3;3	Sep-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx	44;;;
+90	3	07/01/50	Geometricus	Geometricus ;James Lavin 	3;3	Aug-50;Aug-50	xx;xx	41;
+91	3	07/01/50	Geometricus	Wilkin Thomasson ;J. Lavin *;Geometricus *;John Garstang *;J. Giblin *	3;3;3;3;3	Aug-50;Aug-50;Aug-50;Aug-50;Aug-50	xx;xx;xx;xx;xx	41;;;;
+92	3	07/01/50	Geometricus	James Lavin	3	08/01/50	xx	41
+93	3	07/01/50	T. Elliott	Wilkin Thomasson ;J. Giblin *;George Carterfield *;Henry Moors *	3;3;3;3	Aug-50;Aug-50;Aug-50;Aug-50	xx;xx;xx;xx	41;;;
+94	3	07/01/50	T. Elliott	J. Giblin ;George Carterfield  ;W. Turnbull 	3;3;3	Aug-50;Aug-50;Aug-50	xx;xx;xx	41;;
+95	3	07/01/50	Wilkin Thomasson	Wilkin Thomasson ;J.E. Wyatt (was T.E.);J. Giblin *;Henry Moors *;W. Turnbull *;R.G. Clarke *	3;3;3;3;3;3	Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50	xx;xx;xx;xx;xx;xx	41;;;;;
+96	3	07/01/50	Wilkin Thomasson	J. Garstang ;J.E. Wyatt *;John Brookes *;J. Giblin *;Wilkin Thomasson *;George Carterfield *;Henry Moors *;R.B. *;G.H.S. *;Thomas Morley *;Thomas Windsor *	3;3;3;3;3;3;3;3;3;3;3	Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;
+97	3	07/01/50	Wilkin Thomasson	Henry Moors ;J.E. Wyatt *;Wilkin Thomasson *;R.B. *;G.H.S. *	3;3;3;3;3	Aug-50;Aug-50;Aug-50;Aug-50;Aug-50	xx;xx;xx;xx;xx	3;;;;
+98	3	07/01/50	Wilkin Thomasson	R.B. ;J.E. Wyatt *;John Garstang *;Wilkin Thomasson *;Henry Moors *;G.H.S. *	3;3;3;3;3;3	Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50	xx;xx;xx;xx;xx;xx	41;;;;;
+99	3	07/01/50	Wilkin Thomasson	Nicol ;G.H.S. ;Wilkin Thomasson 	3;3;3	Aug-50;Aug-50;Aug-50	xx;xx;xx	41;;
+100	3	07/01/50	W.H. Hoare	G.H.S. ;J.E. Wyatt *;John Brookes *;J. Tomlinson *;John Giblin *;George Carterfield *;H. Moors *;W. Turnbull *;R.B. *;W.H. Hoare *;Dr. P.B. *;J. Faulkner *;G. *;William Lundy *;W.F. Easton *	3;3;3;3;3;3;3;3;3;3;3;3;3;3;3	Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;
+101	3	07/01/50	R. Harley	Digamma 	3	09/01/50	xx	44
+102	3	07/01/50	James Lavin					41
+103	3	07/01/50	James Lavin	Nemo ;Hibernicus ;S.P.*;Zero ;W.J. Greenstreet (1st);W.J. Greenstreet (2nd) ;W.J. Greenstreet (3rd);R. Chartres;H.J. Woodall 	3;3;3;3;6;46;52;51;xx	Aug-50;Sep-50;Mar-51;Mar-51;Dec-52;Dec-93;May-99;May-98;xx	xx;xx;xx;xx;xx;xx;61;69;61	74;;;;;;;;
+104	3	07/01/50	W. Turnbull	W. Turnbull ;J.E. Wyatt *;Terence Moran *	3;3;3	Aug-50;Aug-50;Aug-50	xx;xx;xx	12;;
+105	3	07/01/50	Dr. Wilson	John Garstang ;George Carterfield *	3;3	Aug-50;Aug-50	xx;xx	53;
+106	3	07/01/50	George Carterfield	J.P.B. ;J. Tomlinson *;John Garstang *;George Carterfield *;Henry Moors *;Dr. P.B. *	3;3;3;3;3;3	Aug-50;Aug-50;Aug-50;Aug-50;Aug-50;Aug-50	xx;xx;xx;xx;xx;xx	17;;;;;
+107	3	08/01/50	J. Garstang	R. Harley ;Function ;Digamma *;William Turnbull *;W.J. Miller *;J.G. Blake *;John Brookes *;Robert Bruce *;E.L. Rossoli *;James Lavin *;Nemo *;Zeta *;Henry Moors *;---- *;T.S. *;George Carterfield *	3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3	Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;;
+108	3	08/01/50	R. Harley	R. Harley ;James Lavin *;Nemo *	3;3;3	Sep-50;Sep-50;Sep-50	xx;xx;xx	44;;
+109	3	08/01/50	James Lavin	Terence Moran 	3	09/01/50	xx	41
+110	3	08/01/50	G.	E.L. Rossoli ;Digamma *;W.J. Miller *;J.G. Blake *;John Brookes *;Robert Bruce *;James Lavin *;Nemo *;Henry Moors *;C. Tunnicliffe *;T. Elliott *;J. Faulkner *;G. *	3;3;3;3;3;3;3;3;3;3;3;3;3	Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	2;;;;;;;;;;;;
+111	3	08/01/50	G	Function ;Digamma *;W.J. Miller *;J.G. Blake *;John Brookes *;Robert Bruce *;E.L. Rossoli *;James Lavin *;Nemo *;Zeta *;Henry Moors *;----- *;J. Faulkner *;G. *;J.P.B. *;J.S.A. *;Delta *;Messrs. Dean & Clough *;J. Shorrock *;W.T. Bush *;Terence Moran *;T.S. *	3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3	Sep-50;Sep 50\;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;;;;;;;
+112	3	08/01/50	Geometricus	James Lavin ;Nemo *;Geometricus *	3;3;3	Sep-50;Sep-50;Sep-50	xx;xx;xx	41;;
+113	3	08/01/50	Geometricus	Geometricus ;James Lavin *;Terence Moran *	3;3;3	Sep-50;Sep-50;Sep-50	xx;xx;xx	41;;
+114	3	08/01/50	Geometricus	Function ;James Lavin ;----- *;Terence Moran *;Geometricus *	3;3;3;3;3	Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx	41;;;;
+115	3	08/01/50	W. Lundy	W.J. Miller ;Digamma *;J.G. Blake *;John Brookes *;Robert Bruce *;James Lavin *;Nemo *;Zeta *;Henry Moors *;------ *;T. Elliott *;J. Faulkner *;G. *;J.P.B *;J.S.A. *;Delta *;Messrs. Dean & Clough *;J. Shorrock *;Robert Davidson *;G. Swift *;Terence Moran *;T.S. *;George Carterfield *	3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3	Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;;;;;;;;
+116	3	08/01/50	W. Lundy	James Dean ;C. Clough ;W.J. Miller ;T. Elliott ;Digamma *;W.J. Miller *;J.G. Blake *;John Brookes *;Robert Bruce *;James Lavin *;Henry Moors *;------ *;C. Tunnicliffe *;T. Elliott *;J. Faulkner *;J.P.B. *;J.S.A. *;J. Shorrock *;Robert Davidson *;G. Swift *;Terence Moran *	3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3	Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;;;;;;
+117	3	08/01/50	Wilkin Thomasson	Nemo ;Digamma *;W.J. Miller *;J.G. Blake *;John Brookes *;Robert Bruce *;E.L. Rossoli *;James Lavin *;Zeta *;Henry Moors *;------ *;T. Elliott *;J.P.B. *;J. Shorrock *;J.S. Jenkins *;W.T. Bush *;J. Garstang *;T.S. *;George Carterfield *	3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3;3	Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	3;;;;;;;;;;;;;;;;;;
+118	3	08/01/50	Wilkin Thomasson	Nemo ;Digamma *;W.J. Miller *;J.G. Blake *;John Brookes *;Robert Bruce *;E.L. Rossoli *;James Lavin *;Henry Moors *;T. Elliott *;Delta *;W.T. Bush *;Terence Moran *;T.S. *;George Carterfield *	3;3;3;3;3;3;3;3;3;3;3;3;3;3;3	Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;
+119	3	08/01/50	Wilkin Thomasson	J. Garstang ;Digamma *;W.J. Miller *;J.G. Blake *;E.L. Rossoli *;James Lavin *;Zeta *;Henry Moors *;------ *;T. Elliott *;Delta *;J.S. Jenkins *;J. Garstang *;Terence Moran *	3;3;3;3;3;3;3;3;3;3;3;3;3;3	Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	3;;;;;;;;;;;;;
+120	3	08/01/50	Nemo	Robert Bruce ;Digamma *;J.G. Blake *;E.L. Rossoli *;James Lavin *;Nemo *;Zeta *;Henry Moors *;J. Faulkner *;J.P.B. *;J.S. Jenkins *;Terence Moran *	3;3;3;3;3;3;3;3;3;3;3;3	Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;
+121	3	08/01/50	X.Y.Z.	Analyticus ;Robert Bruce *;James Lavin *;Geometricus 8;X.Y.Z. *	3;3;3;3;3	Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx	41;;;;
+122	3	08/01/50	John Garstang	Henry Moors ;Digamma *;W.J. Miller *;James Lavin *;Messrs. Clough & Clough *;T.S. *;George Carterfield *	3;3;3;3;3;3;3	Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx;xx;xx	3;;;;;;
+123	3	08/01/50	Mary Sullivan	Terence Moran 	3	09/01/50	xx	41
+124	3	08/01/50	Catherine Riorden	E.L. Rossoli ;Terence Moran *	3;3	Sep-50;Sep-50	xx;xx	47;
+125	3	08/01/50	An Assistant	J.S.A ;Nemo ;Digamma *;John Brookes *;James Lavin *;C. Tunnicliffe *;J. Faulkner *;J.S.A. *;G. Swift *	3;3;3;3;3;3;3;3;3	Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50;Sep-50	xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;
+126	3	09/01/50	George Carterfield	James Lavin ;George Carterfield *	4;4	Oct-50;Oct-50	xx;xx	44;
+127	3	09/01/50	George Carterfield	J. Garstang ;Robert Bruce *;George Carterfield *;Digamma *;J.S. Jenkins *;W.J. Miller *;Nemo *;G. Shorrock *;Zeta *;Thales *	4;4;4;4;4;4;4;4;4;8	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Aug-55	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	46;;;;;;;;;
+128	3	09/01/50	George Carterfield	E.L. Rossoli ;Robert Bruce *;Digamma *;Function *;J. Garstang *;James Lavin *	4;4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx;xx	53;;;;;
+129	3	09/01/50	George Carterfield	J. Tomlinson ;Digamma *;James Lavin *;Rev. Piper *;Wilkin Thomasson *	4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx	17;;;;
+130	3	09/01/50	George Carterfield	George Carterfield ;James Lavin *;J. Tomlinson *;Wilkin Thomasson *	4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx	18;;;
+131	3	09/01/50	C. Tunnicliffe	James G. Blake ;J. Brookes *;Robert Bruce *;R. Davidson *;Digamma *;J. Faulkner *;Function 8;G.H.S. *;Bathurst Henderson *;J.S. Jenkins *;R.J. Kendall *;James Lavin *;John Mylne *;Nemo *;G. Shorrock *;J. Tomlinson *;W. Turnbull *;Thomas Windsor *;John Wingfield *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;;;;;
+132	3	09/01/50	R. Davidson	John Brookes ;James G. Blake ;Robert Bruce *;R. Davidson *;Digamma *;E.L. Rossoli *;J. Faulkner *;Function *;G.H.S. *;J. Hanson *;Bathurst Henderson *;R.J. Kendall *;James Lavin *;T.J. Leeming *;W.J. Miller *;Terence Moran *;John Mylne *;Nemo *;G. Robinson *;G. Shorrock *;G. Swift *;J. Tomlinson *;Thomas Windsor *;John Wingfield *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;;;;;;;;;
+133	3	09/01/50	G. Swift	James Lanvin ;E.L. Rossoli ;Robert Bruce *;J. Garstang *;G.H.S. *;T.J. Leeming *;Terence Moran *;G. Swift *;W. Turnbull *;John Wingfield *;Wilkin Thomasson *	4;4;4;4;4;4;4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	74;;;;;;;;;;
+134	3	09/01/50	G. Swift	J.G. Blake ;J. Brookes *;Robert Bruce *;R. Davidson *;Digamma *;E.L. Rossoli *;J. Faulkner *;Function *;G.H.S. *;J. Hanson *;J.S. Jenkins *;R.J. Kendall *;James Lavin *;W.J. Miller *;Terence Moran *;John Mylne *;Nemo *;G. Shorrock *;G. Swift *;J. Tomlinson *;John Wingfield *;Zeta *;Wilkin Thomasson *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;;;;;;;;
+135	3	09/01/50	Mary Sullivan	Hibernicus ;M. *	8;8	Feb-55;Jul-55	U58;xx	52;
+136	3	09/01/50	Mary Sullivan	;G.B.M Zerr ;I. Beyens 	;xx;xx	;xx;xx	;60;60	41;;
+137	3	09/01/50	Robert Bruce	James Lavin ;Robert Bruce *;Digamma *	4;4;4	Oct-50;Oct-50;Oct-50	xx;xx;xx	48;;
+138	3	09/01/50	Robert Bruce	Digamma ;Robert Bruce ;George Carterfield *;E.L. Rossoli *;James Lavin *-	4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx	3;;;;
+139	3	09/01/50	J. Garstang	J. Garstang ;Digamma *;James Lavin *;----- *	4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx	45;;;
+140	3	09/01/50	J. Garstang	W.J. Miller ;Robert Bruce *;Digamma *;J. Garstang *;James Lavin *	4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx	22;;;;
+141	3	09/01/50	J. Garstang	W.J. Miller ;J.G. Blake *;Robert Bruce *;Digamma *;Function *;J. Garstang *;Bathurst Henderson *;James Lavin *;Terence Moran *;Nemo *;G. Swift *;W. Turnbull *;Wilkin Thomasson *	4;4;4;4;4;4;4;4;4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;
+142	3	09/01/50	Scarbro’	Scarbro’ ;Zeta *	4;4	Oct-50;Oct-50	xx;xx	17;
+143	3	09/01/50	Geometricus	E.L. Rossoli ;Geometricus *;Terence Moran *;Zeta *	4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx	74;;;
+144	3	09/01/50	T. Elliott	E.L. Rossoli ;James Lavin ;Robert Bruce *;Digamma *;G.H.S. *;T.J. Leeming *;Terence Moran *	4;4;4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx;xx;xx	48;;;;;;
+145	3	09/01/50	Function	Function ;James Lavin ;G.H.S. *;Nemo *;Zeta *	4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx	61;;;;
+146	3	09/01/50	George Carterfield	Robert Bruce ;James Lavin ;George Carterfield *;Digamma *;E.L. Rossoli *;Function *;J. Garstang *;G.H.S. *;Nemo *	4;4;4;4;4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx;xx;xx;xx;xx	53;;;;;;;;
+147	3	09/01/50	George Carterfield	W.J. Miller ;Digamma ;Robert Bruce *;George Carterfield *;E.L. Rossoli *;Function *;James Lavin *;T.J. Leeming *;Terence Moran *;Nemo *;T.A.S. *;John Wingfield *	4;4;4;4;4;4;4;4;4;4;4;4	Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50;Oct-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;
+148	4	10/01/50	J.E.W.	J.E.W. ;B.A. *;J. Brookes *;R. Bruce *;Delta *;J. Tomlinson *;C. Tunnicliffe *;J.E. Wyatt * (was T.E.);Zeta *	4;4;4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx;xx;xx;xx;xx	2;;;;;;;;
+149	4	10/01/50	E.L. Rossoli	E.L. Rossoli ;J. Garstang ;B.A. *;R. Bruce *;George Carterfield *;Digamma *;Nemo *	4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx;xx;xx	53;;;;;;
+150	4	10/01/50	J. Brookes	W.J. Miller ;J.E. Barton *;J.G. Blake *;A.S. Boddy *;J. Brookes *;R. Bruce *;Thomas Bush *;R. Davidson *;Delta *;E.M. Dillon *;D.M. Fintray *;J. Elliott *;J. Harrop *;J.W. Moffit *;P. Jenkins *;J.W.C. *;T.J. Leeming *;John Mylne *;Nemo *;W. Turnbull *;J. Wells *;J. Wingfield *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov 50 Nov 50;Nov-50;Nov-50;Nov-50;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx ;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;;;;;;;;
+151	4	10/01/50	J. Brookes	E.M. Dillon ;J.E. Barton *;J.G. Blake *;A.S. Boddy *;J. Brookes *;R. Bruce *;Thomas Bush *;R. Davidson *;Delta *;D.M. Fintray *;J. Elliott *;J. Giblin *;G.H.S. *;J.W. Haydock *;P. Jenkins *;J.W.C. *;T.J. Leeming *;W.J. Miller *;J. Moffitt *;John Mylne * ;W. Turnbull *;J. Wingfield *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov 50 Nov 50;Nov-50;Nov-50;Nov-50;	xx;;xx;xx;xx;xx;xx;xx;xx;xx ;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;;;;;;;
+152	4	10/01/50	J. Brookes	W.J. Miller ;J.G. Blake *;J. Brookes *;R. Bruce *;Thomas Bush *;George Carterfield *;Delta *;D.M. Fintray *;W.H. Levy *;J. Moffitt *;John Mylne *;Nemo *;J. Tomlinson *;C. Tunnicliffe *;J. Wingfield *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;
+153	4	10/01/50	W. Turnbull	W.J. Miller ;J.G. Blake *;R. Bruce *;George Carterfield *;Bathurst Henderson *;T.J. Leeming *;Patrick Moran *;John Mylne *;Nemo *;J. Tomlinson *;C. Tunnicliffe *	4;4;4;4;4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;
+154	4	10/01/50	G.S. Clifton	J. Wells ;J.G. Blake *;J. Brookes *;R. Bruce *;R. Davidson *;E.M. Dillon *;J. Elliott *;J. Harrop *;Bathurst Henderson *;T.J. Leeming *;W.H. Levy *;W.J. Miller *;Patrick Moran *;J. Tomlinson *;C. Tunnicliffe *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;;
+155	4	10/01/50	G.S. Clifton	John Brookes ;W.J. Miller ;J.H. Brown *;R. Bruce *;Thomas Bush *;Delta *;D.M. Fintray *;J. Elliott *;J. Giblin *;Bathurst Henderson *;T.J. Leeming *;W.H. Levy *;J. Tomlinson *;C. Tunnicliffe *;J. Wells *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	2;;;;;;;;;;;;;;
+156	4	10/01/50	Robert Bruce	J. Garstang ;R. Bruce *;George Carterfield *;Digamma *;D.M. Fintray *;J.W. Haydock *;Catherine Riorden *;Zeta *-	4;4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx;xx;xx;xx	53;;;;;;;
+157	4	10/01/50	Geometricus	Geometricus ;Catherine Riorden *	4;4	Nov-50;Nov-50	xx;xx	47;
+158	4	10/01/50	J. Garstang	J. Garstang ;B.A. *	4;4	Nov-50;Nov-50	xx;xx	17;
+159	4	10/01/50	J. Garstang	J. Brookes ;J.E. Barton *;R. Bruce *;Delta *;J. Elliott *;J. Giblin *;J. Garstang *;W.J. Miller *;J. Moffitt *;J. Tomlinson *;C. Tunnicliffe *;J. Wells *;J. Wingfield *	4;4;4;4;4;4;4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	1;;;;;;;;;;;;
+160	4	10/01/50	J. Garstang	Robert Bruce ;Digamma *;Patrick Moran *;Zeta *	4;4;4;4	Dec-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx	44;;;
+161	4	10/01/50	J. Garstang	J.G. Blake ;R. Bruce *;J.W.C. ;J. Moffitt *;J. Wingfield *	4;4;4;4;	Nov-50;Nov-50;Nov-50;Nov-50;	xx;xx;xx;xx;	22;;;;
+162	4	10/01/50	B.A.	B.A. ;J. Giblin *	4;4	Nov-50;Nov-50	xx;xx	6;
+163	4	10/01/50	B.A.	B.A. 	4	11/01/50	xx	6
+164	4	10/01/50	B.A.	B.A. ;T. Wilkinson ;Bathurst Henderson *;Patrick Moran *;Catherine Riorden *	4;4;4;4;4	Nov-50;Dec-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx	45;;;;
+165	4	10/01/50	B.A.	B.A. ;Patrick Moran *;Catherine Riorden *	4;4;4	Nov-50;Nov-50;Nov-50	xx;xx;xx	41;;
+166	4	10/01/50	B.A.	B.A. ;Robert Bruce *;Bathurst Henderson *;W.H. Levy *;Patrick Moran *;Catherine Riorden *;Zeta *	4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx;xx;xx	41;;;;;;
+167	4	10/01/50	B.A.	Robert Bruce ;B.A. ;Rev. Piper *	4;4;4	Nov-50;Dec-50;Nov-50	xx;xx;xx	8;;
+168	4	10/01/50	B.A.	B.A. ;Robert Bruce ;W.H. Levy *;Patrick Moran *	4;4;4;4	Dec-50;Dec-50;Nov-50;Nov-50	xx;xx;xx;xx	41;;;
+169	4	10/01/50	W. Lundy	John Brookes ;Robert Bruce *;D.M. Fintray *;Patrick Moran *;J. Tomlinson *;C. Tunnicliffe *	4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx;xx	22;;;;;
+170	4	10/01/50	Hibernicus	James Lavin ;J.G. *	4;4	Jan-51;Nov-50	Xx;xx	41;
+171	4	10/01/50	J.S. Jenkins	George Carterfield ;B.A. *;J. Brookes *;R. Bruce *;Thomas Bush *;Delta *;D.M. Fintray *;Bathurst Henderson *;P. Jenkins *;W.J. Miller *;J. Moffitt *;Patrick Moran *	4;4;4;4;4;4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	3;;;;;;;;;;;
+172	4	10/01/50	J.S. Jenkins	W.J. Miller ;B.A. *;R. Bruce *;Delta *;Digamma *;J. Dixon *;D.M. Fintray *;J. Elliott *;J. Giblin *;G.H.S. *;Bathurst Henderson *;P. Jenkins *;T.J. Leeming *;Patrick Moran *;Nemo *;J. Wells *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov 50 Nov 50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	9;;;;;;;;;;;;;;;
+173	4	10/01/50	J.S. Jenkins	Thomas Wilkinson ;W.J. Miller ;R. Bruce *;D.M. Fintray *;J. Elliott *;J. Giblin *;Bathurst Henderson *;P. Jenkins *;Patrick Moran *;Nemo *;J. Wells 8	4;4;4;4;4;4;4;4;4;4;4	Dec-50;Dec-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;
+174	4	10/01/50	James Lanvin					41
+175	4	10/01/50	James Lanvin					41
+176	4	10/01/50	James Lanvin					45
+177	4	10/01/50	James Lanvin	T. Wilkinson ;Bathurst Henderson *;Patrick Moran *	4;4;4	Jan-51;Nov-50;Nov-50	xx;xx;xx	41;;
+178	4	10/01/50	James Lanvin	J. Harrop 	4	11/01/50	xx	41
+179	4	10/01/50	James Lanvin	Patrick Moran 	4	11/01/50	xx	41
+180	4	10/01/50	James Lanvin	J. Garstang ;George Carterfield ;B.A. *;R. Bruce *;Digamma 8	4;4;4;4;4	Dec-50;Mar-51;Nov-50;Nov-50;Nov-50	xx;xx;xx;xx;xx	53;;;;
+181	4	10/01/50	James Lanvin	R. Bruce ;Patrick Moran 	4;4	Nov-50;Nov-50	xx;xx	44;
+182	4	10/01/50	James Lanvin	Bathurst Henderson ;Patrick Moran 	4;4	Nov-50;Nov-50	xx;xx	41;
+183	4	10/01/50	Robert Bruce	Catherine Sullivan ;J. Brookes *;R. Bruce *;D.M. Fintray *;J. Giblin *;J. Garstang *;Bathurst Henderson *;W.H. Levy *;J. Moffitt *;Patrick Moran *;Catherine Riorden *;Anonymous *	4;4;4;4;4;4;4;4;4;4;4;4	Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Nov-50;Dec-50	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;
+184	4	11/01/50	Geometricus	P.M. ;W. Brierley *;W. Priestley *;T. Wilkinson *	4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51	xx;xx;xx;xx	41;;;
+185	4	11/01/50	Omega	Robert Bruce ;W. Brierley *;Thomas Elliott *;Mem. Penzance L.I *;M.S. *;P.M. *	4;4;4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51	xx;xx;xx;xx;xx;xx	41;;;;;
+186	4	11/01/50	Robert Davidson	G.H.S. ;W.J. Miller ;J. Brookes *;Thomas Elliott *;John Mylne *;W. Priestley *;P.M.  *;S.P.C.S. *;C.M. Tunnicliffe *;W. Turnbull 8;J. Wells *	4;4;4;4;4;4;4;4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;
+187	4	11/01/50	Robert Davidson	J. Wells ;B.B. *;Mr. Bobbin *;A.S. Boddy *;J. Brookes *;W. Landy *;W.J. Miller *;Mem. Penzance L.I.*;John Mylne *;Nemo *;W. Priestley *;P.M. *;S.P.C.S. *;C.M. Tunnicliffe *;W. Turnbull *;J. Jump *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Feb-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;
+188	4	11/01/50	Catherine Sullivan	Hibernicus ;P.M. *	4;4	Jan-51;Jan-51	xx;xx	47;
+189	4	11/01/50	A.S. Boddy	James Lavin ;W.J. Miller *;C.M. Tunnicliffe *	4;4;4	Jan-51;Jan-51; Jan 51	xx;xx;xx	22;;
+190	4	11/01/50	J. Elliott	James Lavin ;Nemo *;W. Turnbull *	4;4;4	Jan-51;Jan-51;Jan-51	xx;xx;xx	22;;
+191	4	11/01/50	J. Elliott	Thomas Wilkinson ;W. Brierley *;Robert Bruce *;Nemo 8;P.M. *	4;4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51;Jan-51	xx;xx;xx;xx;xx	48;;;;
+192	4	11/01/50	J. Elliott	John Giblin ;W. Brierley *;John Mylne *;W. Priestley *;P.M. *;T. Wilkinson *	4;4;4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51	xx;xx;xx;xx;xx;xx	44;;;;;
+193	4	11/01/50	Robert Bruce	T. Elliott ;Robert Bruce *;Mem. Penzance L.I.*;Nemo *;Joseph Parker *;T. Wilkinson *	4;4;4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51	xx;xx;xx;xx;xx;xx	52;;;;;
+194	4	11/01/50	John Dixon	Thomas Wilkinson ;Thomas Elliott ;P.M. *	4;4;4	Jan-51;Jan-51;Jan-51	xx;xx;xx	52;;
+195	4	11/01/50	John Dixon	Joseph Parker ;Mem Penzance L.I.*;P.M. *;C.M. Tunnicliffe *	4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51	xx;xx;xx;xx	8;;;
+196	4	11/01/50	B.A.				xx	82
+197	4	11/01/50	H. Yates	George Carterfield ;Robert Bruce *;W.J. Miller *;John Mylne *;P.M. *;C.M. Tunnicliffe *;J. Wells *	4;4;4;4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51	xx;xx;xx;xx;xx;xx;xx	17;;;;;;
+198	4	11/01/50	Septimus Tebay	Robert Howard ;W. Brierley *;W. Priestley *;P.M. *	4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51	xx;xx;xx;xx	47;;;
+199	4	11/01/50	R. Thompson	Thomas Wilkinson ;W.J. Miller *;Mr. Bobbin *;Robert Bruce *;C.M. Tunnicliffe *	4;4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51;Jan-51	xx;xx;xx;xx;xx	9;;;;
+200	4	11/01/50	Mr. Wilkinson	Thomas Wilkinson ;W. Brierley *;Robert Bruce *;W.J. Miller *;John Mylne *;Nemo *;W. Priestley *;P.M. *;W. Turnbull *	4;4;4;4;4;4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51	xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;
+201	4	11/01/50	Mr. Wilkinson	J. Giblin ;W. Brierley *;J. Brookes *;Robert Bruce *;John Mylne *;W. Priestley *;P.M. *;W. Turnbull *;T. Wilkinson *;J. Jump *	4;4;4;4;4;4;4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Feb-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;
+202	4	11/01/50	G.H.S.	J.W. Elliott ;W.J. Miller *;John Mylne *;W. Turnbull *;T. Wilkinson *;W.H. Levy *	4;4;4;4;4;4	Jan-51;Jan-51;Jan-51;Jan-51;Jan-51;Feb-51	xx;xx;xx;xx;xx;xx	41;;;;;
+203	4	12/01/50	R. Bruce	J.W. Elliott ;Robert Bruce *;J.O. Clazey *;D.M. Fintray *;Nemo *	4;4;4;4;4	Jan-51;Feb-51;Feb-51;Feb-51;Feb-51	xx;xx;xx;xx;xx	48;;;;
+204	4	12/01/50	R. Bruce	Thomas Brown ;Robert Bruce *;J.O. Clazey *;D.M. Fintray *;James Moffitt *;W. Priestly *;J. Turnbull *	4;4;4;4;4;4;4	Feb-51;Jan-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51	xx;xx;xx;xx;xx;xx;xx	3;;;;;;
+205	4	12/01/50	John Dixon	Nemo ;B.A. *;Robert Bruce *;B.B *;J. Brookes *;Robert Bruce *;J.O. Clazey *;Ralph Clough *;D.M. Fintray *;J. Dixon *;J. Harrop *;J.S. Jenkins *;James Moffitt *;W. Priestly *;J. Turnbull *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Feb-51;Jan-51;Jan-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;
+206	4	12/01/50	John Dixon	J.W. Elliott ;T. Morley *;B.B. *;Thomas Brown *;J. Brookes *;J. Dixon *;G.H.S. *;J.S. Jenkins *;J. Jump *;W.H. Levy *;W.J. Miller *;James Moffitt *;J. Mylne *;J. Turnbull *;C. Tunnicliffe *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	9;;;;;;;;;;;;;;
+207	4	12/01/50	Richard Thompson	"Thomas Brown ;D.M. Fintray *;""William Ibison;Nemo *;Geometricus *;P. Ponder *"	"4;4; Jr. *"";4;4;4"	Feb-51;Feb-51;4;Feb-51;Mar-51;Mar-51	xx;xx;Feb-51;xx;xx;xx	41;;xx
+208	4	12/01/50	George Carterfield	Ralph Clough ;J.W. Elliott ;Robert Bruce *;Thomas Brown *;D.M. Fintray *	4;4;4;4;4	Feb-51;Feb-51;Jan-51;Feb-51;Feb-51	xx;xx;xx;xx;xx	44;;;;
+209	4	12/01/50	B.A.	John Dixon ;Edwin H. Galsworthy;B.A. *;J. Brookes *;J.O. Clazey *;D.M. Fintray *;J. Dixon *;J.S. Jenkins *;James Moffitt *;Nemo *;J. Turnbull *	4;4;4;4;4;4;4;4;4;4;4	Feb-51;Feb-51;Jan-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	2;;;;;;;;;;
+210	4	12/01/50	B.A.	B.A. ;J. Dixon *	4;4	Feb-51;Feb-51	xx;xx	61;
+211	4	12/01/50	George Carterfield	George Carterfield ;D.M. Fintray *;W. Priestly *;W. Turnbull *	4;4;4;4	Feb-51;Feb-51;Feb-51;Feb-51	xx;xx;xx;xx	17;;;
+212	4	12/01/50	B.A.	T.T. Wilkinson 	4	03/01/51	Xx	53
+213	4	12/01/50	B.A.	George Carterfield ;W.H. Levy *;James Moffitt *	4;4;4	Feb-51;Feb-51;Feb-51	xx;xx;xx	53;;
+214	4	12/01/50	B.A.	B.A.;William Ibison 	4;4	Feb-51;Feb-51	xx;xx	17;
+215	4	12/01/50	B.A.	B.A. ;J.O. Clazey ;Thomas Brown *;D.M. Fintray *;J.S. Jenkins *;J. Mylne *;Nemo *;J. Turnbull *;W. Turnbull *	4;4;4;4;4;4;4;4;4	Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51	xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;
+216	4	12/01/50	B.A.	B.A. ;J.S. Jenkins *;W. Grayson *	4;4;4	Feb-51;Feb-51;Feb-51	xx;xx;xx	44;;
+217	4	12/01/50	B.A.	T.T. Wilkinson 	4	02/01/51	xx	44
+218	4	12/01/50	B.A.	B.A. 	4	02/01/51	xx	44
+219	4	12/01/50	B.A.	D.M. Fintray 	4	02/01/51	xx	61
+220	4	12/01/50	B.A.	Nemo ;Robert Bruce *;J.O. Clazey *;D.M. Fintray *;J.S. Jenkins *;W.J. Miller *	4;4;4;4;4;4	Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51	xx;xx;xx;xx;xx;xx	9;;;;;
+221	4	12/01/50	Robert Bruce	Robert Bruce ;B.A. *;D.M. Fintray *;Function *;J.W. Haydock *;J. Maclaurin *	4;4;4;4;4;4	Mar-51;Jan-51;Jan-51;Mar-51;Mar-51;Mar-51	xx;xx;xx;xx;xx;xx	53;;;;;
+222	4	12/01/50	T.T. Wilkinson	W.J. Miller ;Robert Bruce *;B.B. *;Thomas Brown *;J. Brookes *;J.O. Clazey *;Ralph Clough *;D.M. Fintray *;J.S. Jenkins *;W.H. Levy *;J. Mylne *;W. Priestly *;W. Turnbull *;T.T. Wilkinson *	4;4;4;4;4;4;4;4;4;4;4;4;4;4	Feb-51;Jan-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;
+223	4	12/01/50	T.T. Wilkinson	T.T. Wilkinson ;Robert Bruce *;Thomas Brown *;J.O. Clazey *;Ralph Clough *;D.M. Fintray *;J.W. Elliott *;J. Harrop *;J.S. Jenkins *;W.H. Levy *;James Moffitt *;Nemo *;W. Priestly *;W. Turnbull *	4;4;4;4;4;4;4;4;4;4;4;4;4;4	Feb-51;Jan-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;
+224	4	12/01/50	R. Thompson	"John Butterworth ;Robert Bruce *;J.O. Clazey *;D.M. Fintray *;J. Harrop *;""William Ibison;W.H. Levy *;Nemo *;Geometricus *;P. Ponder *;T.T. Wilkinson *"	"4;4;4;4;4; Jr. *"";4;4;4;4;4"	Mar-51;Jan-51;Feb-51;Feb-51;Feb-51;4;Feb-51;Feb-51;Mar-51;Mar-51;Mar-51	xx;xx;xx;xx;xx;Feb-51;xx;xx;xx;xx;xx	47;;;;;xx
+225	4	12/01/50	Rev. Dr. Wilson	John Mylne ;Robert Bruce *;Thomas Brown *;J.O. Clazey *;J. Brookes *;D.M. Fintray *;G.H.S. *;J. Harrop *;J.S. Jenkins *;W.H. Levy *;W.J. Miller *;James Moffitt *;W. Priestly *;J. Turnbull *;W. Turnbull *;C. Tunnicliffe *;T.T. Wilkinson *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Feb-51;Jan-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51;Feb-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	2;;;;;;;;;;;;;;;;
+226	4	01/01/51	James Harrop	G.H.S. ;J. Mylne ;B.B. *;J. Brookes *;D.M. Fintray *;Function *;G.B. *;T.J. Leeming *;W.H. Levy *;J. Maclaurin *;Nemo *;Pulciput *;Zeta *;J. Schmidt *;J. Turnbull *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	9;;;;;;;;;;;;;;
+227	4	01/01/51	Robert Howard	W. Grayson ;G.H.S. *;J. Brookes *;D.M. Fintray *;Function *;Hibernicus *;T.J. Leeming *;W.H. Levy *;J. Maclaurin *;Nemo *;Zeta *	4;4;4;4;4;4;4;4;4;4;4	Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar 51 Mar 51;Mar-51;Mar-51;Mar-51;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	9;;;;;;;;;;
+228	4	01/01/51	Bathurst Henderson	Bathurst Henderson ;James Maclaurin 	4;4	Apr-51;Apr-51	xx;xx	44;
+229	4	01/01/51	Kate Sullivan	Hibernicus ;John Dixon ;G.B. *;B.A. *	4;4;4;4	Apr-51;Mar-51;Mar-51;Apr-51	xx;xx;xx;xx	9;;;
+230	4	01/01/51	Kate Sullivan	D.M. Fintray  ;Function *;J. Moffitt *;G. Carterfield *;Nemo *;J. Turnbull *	4;4;4;4;4;4	Mar-51;Mar-51;Mar-51;Apr-51;Apr-51;Apr-51	xx;xx;xx;xx;xx;xx	52;;;;;
+231	4	01/01/51	Geometricus	Geometricus ;G.H.S. *;J. Brookes *;John Mylne *;J. Parker *;Pulciput *;J. Schmidt *;J. Turnbull *	4;4;4;4;4;4;4;4	Mar-51;Mar-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51	xx;xx;xx;xx;xx;xx;xx;xx	47;;;;;;;
+232	4	01/01/51	Robert Bruce	Robert Bruce 	4	04/01/51	xx	15
+233	4	01/01/51	Unknown	G.B. ;W. Grayson *;J. Moffitt *;W. Turnbull *	4;4;4;4	Mar-51;Mar-51;Mar-51;Mar-51	xx;xx;xx;xx	;;;
+234	4	01/01/51	C.R. Martin	John Dixon ;G.H.S. *;B.B. *;J. Brookes *;G. Carterfield *;D.M. Fintray *;Function *;G.B. *;W. Grayson *;J.W. Haydock *;T.J. Leeming *;W.H. Levy *;J. Maclaurin *;J. Moffitt *;J. Mylne *;Nemo *;J. Tomlinson *;W. Turnbull *;J. Wingfield *;Zeta *;Robert Bruce *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Mar-51;Feb-51;Mar-51;Mar 51 Mar 51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar 51 Mar 51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar 51 Mar 51;Mar-51;Mar-51;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx ;xx;xx;xx;xx;xx;xx;xx ;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;;;;;;
+235	4	01/01/51	C.R. Martin	Nemo ;Anonymous ;J. Brookes *;G. Carterfield *;J. Dixon *;D.M. Fintray *;G.H.S. *;W. Grayson *;J.W. Haydock *;Index *;T.J. Leeming *;M.S. *;J. Moffitt *;J. Mylne *;Pulciput *;J. Tomlinson *;J. Turnbull *;W. Turnbull *;J. Wingfield *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Mar-51;Mar-51;Mar-51;Mar 51 Mar 51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar 51 Mar 51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar 51 Mar 51;Mar-51;;;	xx;xx;xx;xx;xx ;xx;xx;xx;xx;xx;xx;xx ;xx;xx;xx;xx;xx;xx;xx ;xx	22;;;;;;;;;;;;;;;;;;;
+236	4	01/01/51	W. Turnbull	W. Turnbull ;G. Carterfield *;D.M. Fintray *;Function *;W. Grayson *;W.H. Levy *;J. Moffitt *;J. Mylne *;Nemo *;R. Bruce *;J. Parker *;J. Schmidt *	4;4;4;4;4;4;4;4;4;4;4;4	Mar-51;Mar-51;Mar 51 Mar 51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Apr-51;Apr-51;Apr-51;	xx;xx;xx;xx ;xx;xx;xx;xx;xx;xx;xx;xx	3;;;;;;;;;;;
+237	4	01/01/51	W. Turnbull	Function ;J. Brookes *;G. Carterfield *;D.M. Fintray *;G.H.S. *;W. Grayson *;Index *;J. Maclaurin *;M.S. *;J. Moffitt *;J. Mylne *;J. Tomlinson *;J. Turnbull *;W. Turnbull *;J. Wingfield *;R. Bruce *;Nemo *;J. Schmidt *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Mar-51;Mar-51;Mar 51 Mar 51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Mar 51 Mar 51;Mar-51;Mar-51;Mar-51;Mar-51;Apr-51;Apr-51;Apr-51;;	xx;xx;xx;xx ;xx;xx;xx;xx;xx;xx;xx ;xx;xx;xx;xx;xx;xx;xx 	22;;;;;;;;;;;;;;;;;
+238	4	01/01/51	J. Oswald	J. Mylne ;D.M. Fintray *;G.H.S. *;Index *;J. Maclaurin *;J. Moffitt *;Pulciput *;J. Turnbull *;J. Wingfield *;J. Brookes *;R. Bruce *;Nemo *;J. Schmidt *	4;4;4;4;4;4;4;4;4;4;4;4;4	Mar-51;Mar-51;Mar 51 Mar 51;Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Apr-51;Apr-51;Apr-51;Apr-51;	xx;xx;xx;xx ;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;
+239	4	01/01/51	J. Oswald	T.T. Wilkinson ;G.H.S. *;Index *;Pulciput *;J. Brookes *;R. Bruce *;John Mylne *;Nemo *;J. Parker *;J. Schmidt *;J. Turnbull *;W. Grayson *	4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;Mar-51;Mar-51;Mar-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51;Jun-51	xx;xx;xx;xx ;xx;xx;xx;xx;xx;xx;xx;xx	74;;;;;;;;;;;
+240	4	01/01/51	J. Oswald	W.H. Levy ;G. Carterfield *;J. Maclaurin *;J. Moffitt *;Nemo *;J. Schmidt *;J. Turnbull *	4;4;4;4;4;4;4	Mar-51;Mar-51;Mar-51;Mar-51;Mar-51;Apr-51;Apr-51	xx;xx;xx;xx ;xx;xx;xx	41;;;;;;
+241	4	01/01/51	Pen-and-Ink	Hugh Godfrey ;W. Grayson *	4;4	Jul-51;Jun-51	xx;xx	41;
+242	4	01/01/51	Pen-and-Ink	T.T. Wilkerson ;W. Grayson *	4;4	Jul-51;Jun-51	xx;xx	46;
+243	4	01/01/51	J. Dixon	J. Dixon 	4	04/01/51	xx	15
+244	4	01/01/51	Member of the. Penzance 	W.H. Levy ;R. Bruce ;G. Carterfield *;J. Dixon *;D.M. Fintray *;G.H.S. *;W. Grayson *;J. Maclaurin *;M.S. *;J. Mylne *;J. Turnbull *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4	Mar-51;Mar-51;Mar 51 Mar 51;Mar-51;Mar-51;Mar-51;Mar-51;Mar 51 Mar 51;Mar-51;Mar-51;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;
+245	4	02/01/51	Thomas Morley	Function ;W. Grayson *;W.J. Miller *;Thomas Brown *;G. Carterfield *;James Maclaurin *;Nemo *	4;4;4;4;4;4;4	Apr-51;Mar-51;Mar-51;Apr-51;Apr-51;Apr-51;Apr-51	xx;xx;xx;xx;xx;xx;xx	22;;;;;;
+246	4	02/01/51	James Lavin	W.H. Levy *;Thomas Brown	4;4	Apr-51;Apr-51	xx;xx	41;
+247	4	02/01/51	James Lavin					9
+248	4	02/01/51	James Lavin	G. Carterfield *;Nemo *	4;4	Mar-51;Apr-51	xx;xx	52;
+249	4	02/01/51	J.W. Elliott	J.W. Elliott ;W.H. Levy ;W. Grayson *;T.T. Wilkinson *;Thomas Brown *;James Maclaurin *	4;4;4;4;4;4	Apr-51;Apr-51;Mar-51;Mar-51;Apr-51;Apr-51	xx;xx;xx;xx;xx;xx	48;;;;;
+250	4	02/01/51	J.W. Elliott	J.W. Elliott ;T.T. Wilkinson ;G. Carterfield *;Function *;W. Grayson *;James Maclaurin *	4;4;4;4;4;4	Apr-51;Apr-51;Mar-51;Mar-51;Mar-51;Mar-51	xx;xx;xx;xx;xx;xx	41;;;;;
+251	4	02/01/51	John Williams	Pulciput ;Nemo 	4;4	Mar-51;Apr-51	xx;xx	44;
+252	4	02/01/51	John Williams					52
+253	4	02/01/51	J. Wingfield	John Dixon ;G. Carterfield *;W.J. Miller *;James Maclaurin *;Nemo *	4;4;4;4;4	Apr-51;Mar-51;Mar-51;Mar-51;Mar-51	xx;xx;xx;xx;xx	3;;;;
+254	4	02/01/51	J. Wingfield	Function ;Eumenes *;W. Grayson *;W.J. Miller *;Thomas Brown *;T.J. Leeming *;James Maclaurin *;J. Tomlinson *;C. Tunnicliffe *;J. Wilson *;Tyro *	4;4;4;4;4;4;4;4;4;4;4	Apr-51;Mar-51;Mar-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51;May-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;
+255	4	02/01/51	J. Wingfield	W. Grayson ;James Maclaurin *	4;4	Apr-51;Apr-51	xx;xx	48;
+256	4	02/01/51	J.L.B.	J. Tomlinson ;G. Carterfield *;Eumenes *;W. Grayson *;W.J. Miller *;A.S.B. *;Thomas Brown *;J.W. Haydock *;T.J. Leeming *;C. Tunnicliffe *;J. Wilson *	4;4;4;4;4;4;4;4;4;4;4	Apr-51;Mar-51;Mar-51;Mar-51;Mar-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;
+257	4	02/01/51	J.L.B.	G. Carterfield ;W.H. Levy ;Eumenes *;Thomas Brown *;W. Grayson *;J.W. Haydock *;T.J. Leeming *;James Maclaurin *;J. Tomlinson *;C. Tunnicliffe *;Tyro *	4;4;4;4;4;4;4;4;4;4;4	Apr-51;Apr-51;Mar-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51;May-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;
+258	4	02/01/51	T.T. Wilkinson	W.H. Levy ;W. Grayson *;T.T. Wilkinson *;Thomas Brown *;J. Dixon *;J.W. Haydock *;James Maclaurin *	4;4;4;4;4;4;4	Apr-51;Mar-51;Mar-51;Apr-51;Apr-51;Apr-51;Apr-51	xx;xx;xx;xx;xx;xx;xx	41;;;;;;
+259	4	02/01/51	T.T. Wilkinson	T.T. Wilkinson ;Thomas Brown *	4;4	Apr-51;Apr-51	xx;xx	41;
+260	4	02/01/51	Ingeniuus	Pulciput ;James Maclaurin *	4;4	Apr-51;Apr-51	xx;xx	61;
+261	4	02/01/51	Pen and Ink	Thomas Brown 	4	04/01/51	Xx	46
+262	4	02/01/51	Pen and Ink	Thomas Brown 	4	04/01/51	Xx	46
+263		Missing	J. Dixon					15
+264	4	03/01/51	Thomas Morley	Septimus Tebay ;J. Moffitt *;J. Dixon *	4;4;4	May-51;Mar-51;May-51	xx;xx;xx	9;;
+265	4	03/01/51	Thomas Morley	John Dixon ;Septimus Tebay ;Pulciput *;G.B. Woodburn *;Septimus Tebay *	4;4;4;4;4	May-51;Jun-51;Apr-51;May-51;Jun-51	xx;xx;xx;xx;xx	9;;;;
+266	4	03/01/51	Geometricus	Index ;J. Dixon *	4;4	May-51;May-51	xx;xx	41;
+267	4	03/01/51	J.H. Swale	E.L. Rossoli ;Index *;Amicus *;R. Bruce *;J. Dixon *;W.H. Levy *;J. Maclaurin *;W. Turnbull *;G.B. Woodburn *	4;4;4;4;4;4;4;4;4	May-51;Apr-51;May-51;May-51;May-51;May-51;May-51;May-51;May-51	xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;
+268	4	03/01/51	J.H. Swale	E.L. Rossoli ;Index *;J. Dixon *;J. Maclaurin *;W. Turnbull *;G.B. Woodburn *	4;4;4;4;4;4	May-51;Apr-51;May-51;May-51;May-51;May-51	xx;xx;xx;xx;xx;xx	41;;;;;
+269	4	03/01/51	J.H. Swale	E.L. Rossoli ;R. Bruce *;J. Dixon *;W.H. Levy *;J. Maclaurin *;W. Turnbull *;G.B. Woodburn *	4;4;4;4;4;4;4	May-51;May-51;May-51;May-51;May-51;May-51;May-51	xx;xx;xx;xx;xx;xx;xx	41;;;;;;
+270	4	03/01/51	T. Elliott	G. Bullock ;E.L. Rossoli *;W. Grayson *;R. Clough *;W.H. Levy *;J. Maclaurin *;J. Turnbull *;G.B. Woodburn *	4;4;4;4;4;4;4;4	May-51;Apr-51;Apr-51;May-51;May-51;May-51;May-51;May-51	xx;;;;;;;	48;;;;;;;
+271	4	03/01/51	T. Elliott	J. Dixon ;Eumenes 	4;4	May-51;Jun-51	xx;xx	48;
+272	4	03/01/51	W. Priestly	E.L. Rossoli ;Sigma ;G. Carterfield *;G.H.S *;W. Grayson *;J.S. Jenkins *;Pulciput *;R. Bruce *;J. Dixon *;J.J. Jordan *;W.H. Levy *;J. Maclaurin *;W. Madeley *;J. Mellor *;J. Turnbull *;W. Turnbull *;G.B. Woodburn *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	May-51;May-51;Apr-51;Apr-51;Apr-51;Apr-51;Apr-51;May-51;May-51;May-51;May-51;May-51;May-51;May-51;May-51;May-51;May-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;;;
+273	4	03/01/51	J.W. Elliott	Sigma ;E.L. Rossoli *;G.H.S *;W. Grayson *;J.S. Jenkins *;R. Bruce *;J.W. Elliott *;J. Turnbull *	4;4;4;4;4;4;4;4	May-51;Apr-51;Apr-51;Apr-51;Apr-51;May-51;May-51;May-51	xx;xx;xx;xx;xx;xx;xx;xx	3;;;;;;;
+274	4	03/01/51	J. Dixon	Anonymous ;G. Carterfield *;G.H.S *;J.S. Jenkins *;Pulciput *;Amicus *;R. Bruce *;R. Clough *;J. Dixon *;W.H. Levy *;J. Maclaurin *;Sigma *	4;4;4;4;4;4;4;4;4;4;4;4	May-51;Apr-51;Apr-51;Apr-51;Apr-51;May-51;May-51;May-51;May-51;May-51;May-51;May-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	53;;;;;;;;;;;
+275	4	03/01/51	J. Dixon	J. Dixon 	4	05/01/51	xx	45
+276	4	03/01/51	J.W. Elliott	J.W. Elliott ;Anonymous ;G. Carterfield *;E.L. Rossoli *;W. Grayson *;Pulciput *;R. Bruce *;J. Dixon *;J. Turnbull *	4;4;4;4;4;4;4;4;4	May-51;May-51;Apr-51;Apr-51;Apr-51;Apr-51;May-51;May-51;May-51	xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;
+277	4	03/01/51	W.H. Levy	G.H.S. ;E.L. Rossoli *;F.D.C. *;W. Grayson *;Index *;R. Bruce *;J. Turnbull *;W. Turnbull *;G.B. Woodburn *	4;4;4;4;4;4;4;4;4	May-51;Apr-51;Apr-51;Apr-51;Apr-51;May-51;May-51;May-51;May-51	xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;
+278	4	03/01/51	J.W. Elliott	J.W. Elliott ;G.H.S. *;W.H. Levy *	4;4;4	May-51;Apr-51;May-51	xx;xx;xx	41;;
+279	4	03/01/51	J.W. Elliott	E.L. Rossoli ;J.W. Elliott *	4;4	May-51;May-51	Xx;xx	17;
+280	4	03/01/51	Thomas Brown	G. Carterfield ;E.L. Rossoli *;G.H.S *;W. Grayson *;J. Dixon *	4;4;4;4;4	May-51;Apr-51;Apr-51;Apr-51;Apr-51	xx;xx;xx;xx;xx	44;;;;
+281	4	03/01/51	Thomas Brown	James Maclaurin ;Hibernicus ;J. Dixon *;W. Turnbull *;G.B. Woodburn *	4;4;4;4;4	May-51;Jun-51;May-51;May-51;May-51	xx;xx;xx;xx;xx	47;;;;
+282	4	03/01/51	George Carterfield	W. Grayson ;Anonymous ;G. Carterfield *;E.L. Rossoli *;R. Bruce *;J. Dixon *;W.H. Levy *	4;4;4;4;4;4;4	May-51;May-51;Apr-51;Apr-51;May-51;May-51;May-51	xx;xx;xx;xx;xx;xx;xx	41;;;;;;
+283	4	03/01/51	Zero	Pulciput ;W. Grayson *;J.S. Jenkins *	4;4;4	May-51;Apr-51;Apr-51	xx;xx;xx	3;;
+284	4	04/01/51	R. Bruce	E.L. Rossoli ;Amicus *;R. Bruce *;Ralph Clough *;J. Dixon *;D.M. Fintray *;W. Grayson *;Robert Howard *;J.M. Stockwell *;W.H. Levy *;J. Maclaurin *;J. Moffit *;J. Mylne *;Nemo *;Omega *;J. Turnbull *;W. Turnbull *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;;;
+285	4	04/01/51	R. Bruce	R. Bruce ;D.M. Fintray *	4;4	Jun-51;Jun-51	xx;xx	17;
+286	4	04/01/51	J.W. Elliott	J.W. Elliott ;W. Abbott *;G. Carterfield *;E.L. Rossoli *;Index *;Pulciput *;A.V. *;J. Brookes *;R. Bruce *;J. Dixon *;D.M. Fintray *;J. Fenton *;J.M. Stockwell *;W.H. Levy *;J. Maclaurin *;J. Moffit *;J. Mylne *;M. Reynolds *;G. Swift *;J. Tomlinson *;J. Turnbull *;G.B. Woodburn *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;May-51;May-51;May-51;May-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;;;;;;;;
+287	4	04/01/51	T.T. Wilkinson	J.M. ;E.L. Rossoli *;D.M. Fintray *;W. Grayson *;J.M. Stockwell *;W.H. Levy *;Nemo *;Omega *;Zeta *	4;4;4;4;4;4;4;4;4	Jun-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;
+288	4	04/01/51	T.T. Wilkinson	John Mylne ;E.L. Rossoli *;D.M. Fintray *;W. Grayson *;J.M. Stockwell *;J. Maclaurin *;J. Moffit *;Zeta *	4;4;4;4;4;4;4;4	Jun-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx	44;;;;;;;
+289	4	04/01/51	T.T. Wilkinson	J.M. ;E.L. Rossoli *;D.M. Fintray *;W. Grayson *;J.M. Stockwell *;W.H. Levy *;J. Moffit *;Omega *;Zeta *	4;4;4;4;4;4;4;4;4	Jun-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;
+290	4	04/01/51	James Turnbull	W. Turnbull ;E.L. Rossoli *;F.D.C. *;W. Grayson *;Index *;Pulciput *;Amicus *;A.V. *;J. Brookes *;R. Bruce *;J. Dixon *;D.M. Fintray *;J. Fenton *;J.M. Stockwell *;W.H. Levy *;J. Maclaurin *;J. Moffit *;J. Mylne *;Nemo *;Omega *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;May-51;May-51;May-51;May-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;;;;;;;
+291	4	04/01/51	George Carterfield	George Carterfield ;E.L. Rossoli *;W. Grayson *;Pulciput *;J. Brookes *;R. Bruce *;Ralph Clough *;D.M. Fintray *;J.M. Stockwell *;W.H. Levy *;J. Moffit *;J. Mylne *;Nemo *;J. Turnbull *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;May-51;May-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;
+292	4	04/01/51	George Carterfield	E.L. Rossoli ;G. Carterfield *;R. Bruce *;D.M. Fintray *;J.S. Jenkins *;W.H. Levy *;J. Maclaurin *;J. Moffit *	4;4;4;4;4;4;4;4	Jun-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx	53;;;;;;;
+293	4	04/01/51	Function	W.H. Levy ;D.M. Fintray *;J. Moffit *;J. Turnbull *;Zeta *	4;4;4;4;4	Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx	9;;;;
+294	4	04/01/51	William Lundy	John Brookes ;R. Bruce *;D.M. Fintray *;F.D.C. *;J.P.B. *;W.H. Levy *;J. Moffit *;J. Turnbull *	4;4;4;4;4;4;4;4	Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx	9;;;;;;;
+295	4	04/01/51	Diophantes	H. Clough ;Ralph Clough *;F.D.C. *;W. Grayson *;Index *;Amicus *;J. Brookes *;R. Bruce *;J. Dixon *;D.M. Fintray *;J. Fenton *;W.H. Levy *;J. Maclaurin *;J. Moffit *;J. Mylne *;J. Turnbull *;G.B. Woodburn *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;May-51;May-51;May-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	9;;;;;;;;;;;;;;;;
+296	4	04/01/51	James Moffitt	George Carterfield ;E.L. Rossoli *;W. Grayson *;J. Brookes *;R. Bruce *;Ralph Clough *;D.M. Fintray *;F.D.C. *;J.M. Stockwell *;W.H. Levy *;J. Moffit *;J. Mylne *;Nemo *;Omega *;J. Turnbull *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;May-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;;
+297	4	04/01/51	James Moffitt	R. Bruce;J. Brookes ;G. Carterfield *;E.L. Rossoli *;Pulciput *;D.M. Fintray *;J.S. Jenkins *;J.M. Stockwell *;J.P.B. *;W.H. Levy *;J. Maclaurin *;J. Moffitt *;J. Mylne *;Nemo *;Omega *;J. Turnbull *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;Jun-51;May-51;May-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	9;;;;;;;;;;;;;;;;
+298	4	04/01/51	D.M. Fintray	J.S. ;G. Carterfield *;E.L. Rossoli *;W. Grayson *;Pulciput *;D.M. Fintray *;J.S. Jenkins *;J.M. Stockwell *;J. Moffit *;J. Turnbull *	4;4;4;4;4;4;4;4;4;4	Jun-51;May-51;May-51;May-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	3;;;;;;;;;
+299	4	04/01/51	D.M. Fintray	Pulciput ;R. Bruce *;J. Dixon *;D.M. Fintray *;F.D.C. *;J. Moffitt *;J. Mylne *;S. Tebay *;J. Turnbull *	4;4;4;4;4;4;4;4;4	Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx	9;;;;;;;;
+300	4	04/01/51	D.M. Fintray	D.M. Fintray ;J. Moffit ;J. Turnbull 	4;4;4	Jun-51;Jun-51;Jun-51	xx;xx;xx	44;;
+-301	4	04/01/51	Nemo	J. Tomlinson ;W. Grayson *;W. Lundy *;J. Brookes *;J. Dixon *;D.M. Fintray *;Eumenes *;J. Fenton *;W. Grayson *;J. Moffit *;Zeta *	4;4;4;4;4;4;4;4;4;4;4	Jun-51;May-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;
+-302	4	04/01/51	William Lundy	J. Brookes ;J. Dixon *;D.M. Fintray *;Eumenes *;W. Grayson *;J. Moffit *;J. Tomlinson *;J. Turnbull *;Zeta *	4;4;4;4;4;4;4;4;4	Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;
+-303	4	04/01/51	William Lundy	J. Tomlinson ;J. Dixon *;D.M. Fintray *;J. Moffit *;Zeta *	4;4;4;4;4	Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx	22;;;;
+-304	4	04/01/51	Algebraist	J. Brookes ;A.Z. *;J. Dixon *;D.M. Fintray *;W. Grayson *;J. Moffit *;J. Tomlinson *;J. Turnbull *	4;4;4;4;4;4;4;4	Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51	xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;
+-305	4	04/01/51	C. Tunnicliffe	Nemo ;F.D.C. *;Index *;Amicus *;A.V. *;A.Z. *;J. Brookes *;J. Dixon *;D.M. Fintray *;Eumenes *;J. Fenton *;W. Grayson *;J. Moffit *;G. Swift *;J. Tomlinson *;J. Turnbull *;G.B. Woodburn *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;May-51;May-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun 51 Jun 51;Jun-51;Jun-51;Jun-51;Jun 51 Jun 51;Jun-51;Jun-51;Jun-51;;	xx;xx;xx;xx;xx;xx ;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;;
+-306	4	04/01/51	A.S. Boddy	J. Mellor ;F.D.C. *;W. Lundy *;J. Brookes *;D.M. Fintray *;Eumenes *;J. Fenton *;W. Grayson *;J. Jordan *;W.G. Madeley *;J. Moffit *;M. Reynolds *;J. Tomlinson *;J. Turnbull *;J. Wilson *;G.B. Woodburn *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;May-51;May 51 Jun 51;Jun-51;Jun-51;Jun-51;Jun 51 Jun 51;Jun-51;Jun-51;Jun-51;Jun 51 Jun 51;Jun-51;Jun-51;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;
+-307	4	04/01/51	A.S. Boddy	W.G. Madeley ;W. Grayson *;Amicus *;A.V. *;A.Z. *;J. Brookes *;J. Dixon *;D.M. Fintray *;F.D.C. *;W. Grayson *;J. Jordan *;S. Mellor *;J. Moffit *;G. Swift *;J. Tomlinson *;J. Turnbull *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;May 51 Jun 51;Jun-51;Jun-51;Jun-51;Jun 51 Jun 51;Jun-51;Jun-51;Jun-51;Jun 51 Jun 51;Jun-51;Jun-51;Jun-51;Jun-51;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;;;;
+-308	4	04/01/51	A.S. Boddy	Eumenes ;J. Brookes *;J. Dixon *;D.M. Fintray *;J. Tomlinson *;J. Turnbull *;G.B. Woodburn *	4;4;4;4;4;4;4	Jun 51 Jun 51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;	xx;xx;xx;xx;xx;xx;xx	9;;;;;;
+-309	4	04/01/51	J.L.B.	Nemo ;J. Brookes *;J. Dixon *;D.M. Fintray *;Eumenes *;W. Grayson *;J. Jordan *;W.G. Madeley *;S. Mellor *;J. Moffit *;J. Tomlinson *;J. Turnbull *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun 51 Jun 51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;
+-310	4	04/01/51	J.L.B.	J. Tomlinson ;J. Brookes *;J. Dixon *;D.M. Fintray *;Eumenes *;F.D.C. *;W. Grayson *;J. Madeley *;W.G. Madeley *;S. Mellor *;J. Moffit *;J. Turnbull *;G.B. Woodburn *;Zeta *	4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun-51;Jun 51 Jun 51;Jun-51;Jun-51;Jun-51;Jun-51;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;;
+311	4	05/01/51	J.H. Swale	J.H. Swale ;John Mylne ;Thomas Brown *;W. Grayson *;W.H. Levy *;J. Maclaurin *;Nemo *;E. Rutter *;J. Turnbull *;W. Turnbull *	4;4;4;4;4;4;4;4;4;4	Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Jul-51	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;
+312	4	05/01/51	J.H. Swale	T.T. Wilkinson ;Thomas Brown *;W. Grayson *;W.H. Levy *;J. Maclaurin *;J. Mylne *;Nemo *;E. Rutter *;W. Turnbull *	4;4;4;4;4;4;4;4;4	Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Jul-51	xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;
+313	4	05/01/51	J.H. Swale	T.T. Wilkinson ;Thomas Brown *;W. Grayson *;W.H. Levy *;J. Maclaurin *;J. Mylne *;Nemo *;E. Rutter *	4;4;4;4;4;4;4;4	Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Jul-51	xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;
+314	4	05/01/51	J.W. Elliott	W. Grayson ;W.H. Levy ;Thomas Brown *;J. Dixon *;E. Rutter *;J.S. Jenkins *	4;4;4;4;4;4	Jul-51;Jul 51 Jul 51;Jul-51;Jul-51;Jul-51;	xx;xx;xx;xx;xx;xx	22;;;;;
+315	4	05/01/51	J.W. Elliott	George Carterfield ;W.H. Levy *;J. Maclaurin *;E. Rutter *	4;4;4;4	Jul-51;Jul-51;Jul-51;Jul-51	xx;xx;xx;xx	41;;;
+316	4	05/01/51	J.W. Elliott	J.W. Elliott ;Pulciput *	4;4	Aug-51;Jun-51	xx;xx	48;
+317	4	05/01/51	J.W. Elliott	George Carterfield ;J. Dixon *;J. Maclaurin *;Nemo *;E. Rutter *;Pulciput *	4;4;4;4;4;4	Jul 51 Jul 51;Jul-51;Jul-51;Jul-51;Jul-51;	xx;xx;xx;xx;xx;xx	46;;;;;
+318	4	05/01/51	J.W. Elliott	J.W. Elliott ;J. Dixon *;W.H. Levy *;J. Maclaurin *;E. Rutter *;Pulciput *	4;4;4;4;4;4	Aug 51 Jul 51;Jul-51;Jul-51;Jul-51;Jun-51;	xx;xx;xx;xx;xx;xx	45;;;;;
+319	4	05/01/51	Zeta	J. Dixon 	4	07/01/51	xx	41
+320	4	05/01/51	S. Kington	Pulciput ;F.D.C. ;Thomas Brown *;J. Maclaurin *;Nemo *;E. Rutter *;C. Tunnicliffe *	4;4;4;4;4;4;4	Jul-51;Aug 51 Jul 51;Jul-51;Jul-51;Jul-51;Jul-51;	xx;xx;xx;xx;xx;xx;xx	1;;;;;;
+321	4	05/01/51	Septimus Tebay	Septimus Tebay ;George Carterfield 	4;4	Jul-51;Jul-51	xx;xx	17;
+322	4	05/01/51	Septimus Tebay	Septimus Tebay ;Thomas Brown *	4;4	Jul-51;Jul-51	xx;xx	46;
+323	4	05/01/51	R. Bruce					6
+324	4	05/01/51	R. Bruce	W. Grayson ;E. Rutter *;Pulciput *	4;4;4	Jul-51;Jul-51;Jun-51	xx;xx;xx	22;;
+325	4	05/01/51	Eumenes	Hibernicus ;J. Dixon *;W. Grayson *;George Carterfield *	4;4;4;4	Sep-51;Jul-51;Jul-51;Jun-51	xx;xx;xx;xx	41;;;
+326	4	05/01/51	Dr. Wilson	Dr. Wilson ;Thomas Brown *;J. Maclaurin *	4;4;4	Sep-51;Jul-51;Jul-51	xx;xx;xx	51;;
+327	4	05/01/51	J.S. Jenkins	Thomas Brown ;W. Grayson *;Nemo *;J. Turnbull *;J.S. Jenkins *;Pulciput *	4;4;4;4;4;4	Jul 51 Jul 51;Jul-51;Jul-51;Jun-51;Jun-51;	xx;xx;xx;xx;xx;xx	3;;;;;
+328	4	05/01/51	J. Wingfield	George Bullock ;Nemo *	4;4	Sep-51;Jul-51	xx;xx	44;
+329	4	05/01/51	Nemo	Thomas Brown ;J. Dixon *;J. Tomlinson *	4;4;4	Jul-51;Jul-51;Jul-51	xx;xx;xx	22;;
+330	4	05/01/51	Zeta	Thomas Brown ;J. Dixon *;F.D.C. *;J. Tomlinson *;C. Tunnicliffe *;George Carterfield *	4;4;4;4;4;4	Jul 51 Jul 51 Jul 51;Jul-51;Jul-51;Jun-51;;	xx;xx;xx;xx;xx;xx	2;;;;;
+-331	4	05/01/51	J.S. Galway	Thomas Hey Brown;J. Dixon *;R. Robinson *;E. Rutter *;J. Tomlinson *;C. Tunnicliffe *;J. Wilson *;J.S. Jenkins *	4;4;4;4;4;4;4;4	Jul 51 Jul 51 Jul 51;Jul-51;Jul-51;Jul 51 Jul 51;Jun-51;;;	xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;
+-332	4	05/01/51	Nemo	J.S. Jenkins *;E. Rutter *	4;4	Jun-51;Jul-51	xx;xx	22;
+-333	4	05/01/51	J. Dixon	James Tomlinson ;J. Dixon *;F.D.C. *;E. Rutter *;C. Tunnicliffe *	4;4;4;4;4	Jul 51 Jul 51 Jul 51;Jul-51;Jul-51;;	xx;xx;xx;xx;xx	1;;;;
+-334	4	05/01/51	J. Dixon	J.L. Jenkins ;J. Dixon *	4;4	Jul-52;Jul-51	xx;xx	3;
+-335	4	05/01/51	J. Wingfield	J. Dixon ;J. Tomlinson *	4;4	Jul-51;Jul-51	xx;xx	22;
+-336	4	05/01/51	John Dixon	Nemo ;J. Dixon *;F.D.C. *;R. Robinson *;J. Tomlinson *;C. Tunnicliffe *	4;4;4;4;4;4	Jul 51 Jul 51 Jul 51;Jul-51;Jul-51;Jul-51;;	xx;xx;xx;xx;xx;xx	22;;;;;
+-337	4	05/01/51	Anonymous	J.J. Jenkins ;J. Dixon *;J. Tomlinson *;C. Tunnicliffe *	4;4;4;4	Jul 51 Jul 51 Jul 51;Jul-51;;	xx;xx;xx;xx	61;;;
+-338	4	05/01/51	G. Robinson	Thomas Barton ;J.E. Barton *;C.T. *;J. Dixon *;W. Lundy *;J.G. Robinson *;J. Tomlinson *;A. Whyte *;J. Wilson *;Eumenes *;J.S. Jenkins *;J.B. Swallwell *	4;4;4;4;4;4;4;4;4;4;4;4	Jul 51 Jul 51 Jul 51;Jul-51;Jul-51;Jul 51 Jul 51;Jul-51;Jul-51;Jun-51;Jun-51;Jun-51;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	9;;;;;;;;;;;
+-339	4	05/01/51	Anonymous	J. Tomlinson ;J. Dixon *;F.D.C. *;R. Robinson *;E. Rutter *;C. Tunnicliffe *;J.S. Jenkins *	4;4;4;4;4;4;4	Jul 51 Jul 51 Jul 51;Jul-51;Jul-51;Jul-51;Jun-51;;	xx;xx;xx;xx;xx;xx;xx	22;;;;;;
+-340	4	05/01/51	Dr. Wilson	J.S. ;J. Dixon *;E. Rutter *;J. Tomlinson *;C. Tunnicliffe *	4;4;4;4;4	Jul 51 Jul 51 Jul 51;Jul-51;Jul-51;;	xx;xx;xx;xx;xx	22;;;;
+-341	4	05/01/51	R. Bruce	J.S. Jenkins ;J. Dixon *	4;4	Jul-51;Jul-51	xx;xx	3;
+-342	4	05/01/51	J. Turnbull	J. Dixon ;E. Rutter *	4;4	Jul-51;Jul-51	xx;xx	3;
+343	4	06/01/51	T. Wilkinson	J. Dixon ;T.T. Wilkerson *;Thomas Brown *;Joseph Burne *;J. Giblin *;W.H. Levy *;Thomas Pigg *;E. Rutter *;G.B. Woodburn *	4;4;4;4;4;4;4;4;4	Jul-51;Jul-51;Aug-51;Aug-51;Aug-51;Aug-51;Aug-51;Aug-51;Aug-51	xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;
+344	4	06/01/51	T. Wilkinson	J. Dixon ;R. Robinson *;T.T. Wilkinson *;E. Rutter *	4;4;4;4	Jul-51;Jul-51;Jul-51;Aug-51	xx;xx;xx;xx	41;;;
+345	4	06/01/51	J.S. Jenkins	J. Dixon ;Pulciput *;Thomas Brown *;G. Carterfield *;J. Giblin *;Nemo *;Thomas Pigg *;E. Rutter *;G.B. Woodburn *	4;4;4;4;4;4;4;4;4	Jul-51;Jul 51 Aug 51;Aug-51;Aug-51;Aug-51;Aug-51;Aug-51;Aug-51;	xx;xx;xx;xx;xx;xx;xx;xx;xx	11;;;;;;;;
+346	4	06/01/51	Zeta	Thomas H. Brown ;J. Dixon *;T. German *;E. Hart *;Pulciput;J. Davison *;J. Giblin *;W.H. Levy *;J. Mallinson *;Nemo *;Thomas Pigg *;E. Rutter *;J. Tomlinson *;R. Wilson *;G.B. Woodburn *	4;4;4;4;4;4;4;4;4;4;4;4;4;4;4	Jul-51;Jul-51;Jul-51;Jul-51;Jul-51;Aug-51;Aug-51;Aug 51 Aug 51;Aug-51;Aug-51;Aug-51;Aug-51;Aug-51;Aug-51;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	1;;;;;;;;;;;;;;
+347	4	06/01/51	Omega	W. Grayson ;W.H. Levy ;J. Dixon *;G. Carterfield *;J. Giblin *;J.M. *;J. Mallinson *;Nemo *;Thomas Pigg *;E. Rutter *;J. Turnbull *;W. Turnbull *	4;4;4;4;4;4;4;4;4;4;4;4	Sep-51;Sep-51;Jul 51 Aug 51;Aug-51;Aug-51;Aug 51 Aug 51;Aug-51;Aug-51;Aug-51;Aug-51;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	44;;;;;;;;;;;
+348	4	06/01/51	Bathurst Henderson	W. Grayson ;J. Dixon *;Thomas Brown *;J. Davison *;J. Giblin *;J.M. *;W.H. Levy *;Thomas Pigg *;E. Rutter *;C. Tunnicliffe *;W. Turnbull *;R. Wilson *;G.B. Woodburn *	4;4;4;4;4;4;4;4;4;4;4;4;4	Sep-51;Jul 51 Aug 51;Aug-51;Aug-51;Aug 51 Aug 51;Aug-51;Aug-51;Aug-51;Aug-51;Aug-51;Aug-51;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;
+349	4	06/01/51	Geometricus	Scrutator ;W. Grayson *;Thomas Brown *;J. Giblin *;W.H. Levy *;Thomas Pigg *;E. Rutter *;G.B. Woodburn *	5;4;4;4;4;4;4;4	May-52;Jul 51 Aug 51;Aug-51;Aug-51;Aug-51;Aug-51;Aug-51;	xx;xx;xx;xx;xx;xx;xx;xx	44;;;;;;;
+350	4	06/01/51	James Shortall	T. Pigg ;E. Rutter *	4;4	Aug-51;Aug-51	xx;xx	47;
+351	4	06/01/51	J.W. Elliott	J.W. Elliott ;J. Dixon *;Pulciput *;G. Carterfield *;J. Giblin *;Thomas Pigg *;E. Rutter *	4;4;4;4;4;4;4	Sep-51;Jul-51;Jul-51;Aug-51;Aug-51;Aug-51;Aug-51	xx;xx;xx;xx;xx;xx;xx	17;;;;;;
+352	4	06/01/51	Robert Bruce	W. Grayson ;Pulciput *;J. Giblin *;J.M. *;Thomas Pigg *;E. Rutter *;J. Turnbull *	4;4;4;4;4;4;4	Jul-51;Jul 51 Aug 51;Aug-51;Aug-51;Aug-51;Aug-51;	xx;xx;xx;xx;xx;xx;xx	48;;;;;;
+353	4	06/01/51	Kate Sullivan	G. Carterfield ;J. Giblin *;Nemo *;Thomas Pigg *;E. Rutter *	4;4;4;4;4	Aug 51 Aug 51;Aug-51;Aug-51;Aug-51;	xx;xx;xx;xx;xx	41;;;;
+-354	4	06/01/51	R.L.H. Prestbury	Nemo ;J. Dixon *;F.D.C. *;J. Davison *;J. Giblin *;W.H. Levy *;J. Mallinson *;Thomas Pigg *;E. Rutter *;J. Tomlinson *;C. Tunnicliffe *;W. Turnbull *;R. Wilson *	4;4;4;4;4;4;4;4;4;4;4;4;4	Aug-51;Jul-51;Jul 51 Aug 51;Aug-51;Aug-51;Aug 51 Aug 51;Aug-51;Aug-51;Aug-51;Aug-51;Aug-51;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;;;;
+-355	4	06/01/51	R.L.H. Prestbury	John Dixon ;G. Carterfield *;J. Davison *;J. Giblin *;W.H. Levy *;J. Mallinson *;Thomas Pigg *;E. Rutter *;C. Tunnicliffe *;J. Turnbull *	4;4;4;4;4;4;4;4;4;4	Aug 51 Aug 51;Aug-51;Aug-51;Aug 51 Aug 51;Aug-51;Aug-51;Aug-51;Aug-51;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	47;;;;;;;;;
+-356	4	06/01/51	Nemo	Zeta ;J. Davison *;J. Giblin *;W.H. Levy *;E. Rutter *;C. Tunnicliffe *	4;4;4;4;4;4	Aug 51 Aug 51;Aug-51;Aug-51;Aug-51;Aug-51;	xx;xx;xx;xx;xx;xx	41;;;;;
+-357	4	06/01/51	Nemo	J. Dixon ;F.D.C. *;G. Carterfield *;J. Davison *;W.H. Levy *;Nemo *;E. Rutter *;J. Tomlinson *;C. Tunnicliffe *;W. Turnbull *	4;4;4;4;4;4;4;4;4;4	Aug-51;Jul 51 Aug 51;Aug-51;Aug-51;Aug 51 Aug 51;Aug-51;Aug-51;Aug-51;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;
+-358	4	06/01/51	Nemo	J. Dixon ;W.H. Levy *;C. Tunnicliffe *	4;4;4	Jul-51;Aug-51;Aug-51	xx;xx;xx	41;;
+-359	4	06/01/51	Nemo	James Davison ;J. Dixon *;J. Giblin *;C. Tunnicliffe *;W. Turnbull *	4;4;4;4;4	Aug-51;Jul-51;Aug-51;Aug-51;Aug-51	xx;xx;xx;xx;xx	41;;;;
+360	4	07/01/51	George Carterfield	George Carterfield ;T. M’Namara *;Pulciput *	4;4;4	Sep-51;Sep-51;Sep-51	xx;xx;xx	18;;
+361	4	07/01/51	George Carterfield	George Carterfield ;T. M’Namara *	4;4	Sep-51;Sep-51	xx;xx	18;
+362	4	07/01/51	Eumenes	J. Brookes ;J. Davison *;J.M. *;W.H. Levy *;T. M’Namara *;Thomas Pigg *;J. Turnbull *	4;4;4;4;4;4;4	Sep 51 Sep 51;Sep-51;Sep 51 Sep 51;Sep-51;Sep-51;;	xx;xx;xx;xx;xx;xx;xx	47;;;;;;
+363	4	07/01/51	Eumenes	W.H. Levy ;Thomas Pigg *;Pulciput *;J. Turnbull *	4;4;4;4	Sep 51 Sep 51;Sep-51;Sep-51;	xx;xx;xx;xx	41;;;
+364	4	07/01/51	Mathematicus	Thomas Brown  ;Thomas Burne *;W.H. Levy *;T. M’Namara *;Thomas Pigg *	4;4;4;4;4	Sep 51 Sep 51;Sep-51;Sep-51;Sep-51;	xx;xx;xx;xx;xx	47;;;;
+365	4	07/01/51	Thomas Brown	W.H. Levy ;T. M’Namara *;Thomas Pigg *	4;4;4	Sep-51;Sep-51;Sep-51	xx;xx;xx	17;;
+366	4	07/01/51	R. Thompson	Leo Sislor ;Hibernicus ;G. Grayson *;W.H. Levy *;T. M’Namara *;Thomas Pigg *	5;5;4;4;4;4	Jan-52;Feb 52 Sep 51;Sep-51;Sep-51;Sep-51;	xx;xx;xx;xx;xx;xx	17;;;;;
+367	4	07/01/51	J.W. Elliott	J. Davison ;J.W. Elliott *;J.M. *;W.H. Levy *;T. M’Namara *;Nemo *;Thomas Pigg *;J. Turnbull *;W. Turnbull *;T.T. Wilkinson *	4;4;4;4;4;4;4;4;4;4	Sep 51 Sep 51;Sep-51;Sep 51 Sep 51;Sep-51;Sep 51 Sep 51;Sep-51;Sep-51;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;
+368	4	07/01/51	J.W. Elliott	Pulciput ;J.W. Elliott ;J.M. *;W.H. Levy *;T. M’Namara *;Thomas Pigg *;T.T. Wilkinson *	4;4;4;4;4;4;4	Sep-51;Sep 51 Sep 51;Sep-51;Sep 51 Sep 51;Sep-51;;	xx;xx;xx;xx;xx;xx;xx	45;;;;;;
+369	4	07/01/51	J.W. Elliott	W.H. Levy ;T. M’Namara *;Thomas Pigg *;Pulciput *;T.T. Wilkinson *	4;4;4;4;4	Sep 51 Sep 51;Sep-51;Sep-51;Sep-51;	xx;xx;xx;xx;xx	41;;;;
+-370	4	07/01/51	Zeta	W. Grayson ;J. Davison *;W.H. Levy *;T. M’Namara *;Thomas Pigg *;W. Turnbull *	4;4;4;4;4;4	Sep 51 Sep 51 Sep 51;Sep-51;Sep-51;Sep-51;;	xx;xx;xx;xx;xx;xx	41;;;;;
+-371	4	07/01/51	Dr. H	John Brookes ;W. Lundy *;Ralph Clough *;J. Davison *;W. Grayson *;L.W. *;W.H. Levy *;Nemo *;Thomas Pigg *;W. Turnbull *	4;4;4;4;4;4;4;4;4;4	Sep 51 Sep 51;Sep-51;Sep-51;Sep 51 Sep 51 Sep 51;Sep-51;Sep-51;Sep-51;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	2;;;;;;;;;
+-372	4	07/01/51	J.S.	W.H. Levy ;W. Lundy *;Thomas Brown *;J. Brookes *;J. Davison *;L.W. *;Nemo *;Thomas Pigg *;W. Turnbull *	4;4;4;4;4;4;4;4;4	Sep 51 Sep 51 Sep 51;Sep-51;Sep-51;Sep-51;Sep-51;Sep-51;Sep-51;;	xx;xx;xx;xx;xx;xx;xx;xx;xx	9;;;;;;;;
+-373	4	07/01/51	J.S.	John Brookes ;W. Lundy *;J. Davison *;L.W. *;W.H. Levy *;T. M’Namara *;Nemo *;Thomas Pigg *;W. Turnbull *	4;4;4;4;4;4;4;4;4	Sep 51 Sep 51 Sep 51;Sep-51;Sep-51;Sep 51 Sep 51 Sep 51;Sep-51;;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;
+-374	4	07/01/51	J. Dixon	W.H. Levy ;J. Brookes *;J. Davison *;T. M’Namara *;Nemo *;Thomas Pigg *;W. Turnbull *	4;4;4;4;4;4;4	Sep 51 Sep 51 Sep 51;Sep-51;Sep-51;Sep-51;Sep-51;;	xx;xx;xx;xx;xx;xx;xx	22;;;;;;
+-375	4	07/01/51	J. Dixon	James Davison ;J. Brookes *;W.H. Levy *;T. M’Namara *;Nemo *;Thomas Pigg *;W. Turnbull *	4;4;4;4;4;4;4	Sep 51 Sep 51 Sep 51;Sep-51;Sep-51;Sep-51;Sep-51;;	xx;xx;xx;xx;xx;xx;xx	22;;;;;;
+-376	4	07/01/51	J. Dixon	W. Turnbull ;J. Brookes *;W. Grayson *;Thomas Pigg *	4;4;4;4	Sep 51 Sep 51 Sep 51;Sep-51;;	xx;xx;xx;xx	3;;;
+377	4	08/01/51	Septimus Tebay	Leo Sislor 	4	09/01/51	xx	17
+378	4	08/01/51	J.H. Swale	W. Grayson ;T.T. Wilkinson *	4;4	Sep-51;Sep-51	xx;xx	41;
+379	4	08/01/51	J.H. Swale	T.T. Wilkinson  	4	09/01/51	xx	41
+380	4	08/01/51	J.H. Swale	W. Grayson ;T.T. Wilkinson *	4;4	Sep-51;Sep-51	xx;xx	41;
+381	4	08/01/51	Analyticus	W. Grayson 	4	09/01/51	xx	9
+382	4	08/01/51	Analyticus	W. Grayson ;James Mallinson *	5;5	 Dec 52; Dec 52	xx;xx	9;
+383	4	08/01/51	Analyticus					41
+384	4	08/01/51	Analyticus					41
+385	4	08/01/51	Thomas Morley	W. German 	4	09/01/51	xx	17
+386	4	08/01/51	Thomas Morley	W. German 	4	09/01/51	xx	18
+-387	4	08/01/51	W.H. Levy					46
+-388	4	08/01/51	G.B. Woodburn	W. German 	4	09/01/51	xx	17
+-389	4	08/01/51	Thomas Brown					48
+-390	4	08/01/51	Thomas Brown	W. Grayson;W. German *	4;	Sep-51;	xx;	18;
+-391	4	08/01/51	Cervus	W. Grayson 	4	09/01/51	xx	3
+-392	4	08/01/51	Cervus					22
+-393	4	08/01/51	Cervus	W. German *;W. Grayson	4;4	Sep-51;Sep-51	xx;xx	22;
+-394	4	08/01/51	Cervus					3
+-395	4	08/01/51	G. Swift					22
+-396	4	08/01/51	G.B. Woodburn	W. German ;W. Grayson *	4;4	Sep-51;Sep-51	xx;xx	41;
+-397	4	08/01/51	J.D.X.	W. German 	4	09/01/51	xx	41
+-398	4	08/01/51	J.D.X.					11
+399	4	09/01/51	Ralph Clough					17
+400	4	09/01/51	Leo Sislor					53
+401	4	09/01/51	Geometricus					44
+402	4	09/01/51	Geometricus					74
+403	4	09/01/51	J.W. Elliott					46
+404	4	09/01/51	J.W. Elliott					46
+405	4	09/01/51	J.W. Elliott					6
+406	4	09/01/51	Otter					2
+-407	4	09/01/51	J. Tomlinson					22
+-408	4	09/01/51	Nemo					22
+-409	4	09/01/51	W.L.					22
+-410	4	09/01/51	W.L.					22
+-411	4	09/01/51	W.L.					2
+-412	4	09/01/51	M.N.					3
+Prize	5	10/01/51	Editor (Theon?)	T.T. Wilkinson	5	01/01/52	xx	41
+413	5	10/01/51	Unknown					
+414	5	10/01/51	Unknown					
+415	5	10/01/51	Unknown					
+416	5	10/01/51	Unknown					
+417	5	10/01/51	J.W. Elliott	S.X.;J.W. Elliott	5;5	Jan-52;Jan-52	xx;xx	4;
+418	5	10/01/51	Unknown					
+419	5	10/01/51	Unknown					
+420	5	10/01/51	Unknown					
+421	5	10/01/51	Unknown					
+422	5	10/01/51	Unknown					
+423	5	10/01/51	Unknown					
+424	5	10/01/51	J. Wingfield	Index;Amicus *;J. Brookes *;J. Davison *;W. Grayson *;J.D.C. *;Joseph Lawson *;Nemo *;Dr. Rutherford *;Sedulus *;C. Tunnicliffe *;Zeta *	5;5;5;5;5;5;5;5;5;5;5;5	Jan-52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan-52;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	4;;;;;;;;;;;
+425	5	10/01/51	Leo Sislor	Dr. Rutherford;Amicus *;W. Grayson *;M.W.H. Levy *;Nemo *	5;5;5;5;5	Jan 52 Jan 52;Jan-52;Jan-52;Jan-52;	xx;xx;xx;xx;xx	53;;;;
+426	5	10/01/51	J.W. Elliott	G.H.S.;Amicus *;J. Davison *;W. Grayson *;J.W.H.H. *;M.W.H. Levy *;Nemo *;Dr. Rutherford *;Sedulus *	5;5;5;5;5;5;5;5;5	Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan-52;;	xx;xx;xx;xx;xx;xx;xx;xx;xx	44;;;;;;;;
+427	5	10/01/51	W. Grayson	W. Grayson;Amicus *;J. Davison *;M.W.H. Levy *;Nemo *;Dr. Rutherford *;Zeta *	5;5;5;5;5;5;5	Jan 52 Jan 52;Jan-52;Jan-52;Jan-52;Jan-52;Jan-52;	xx;xx;xx;xx;xx;xx;xx	41;;;;;;
+428	5	10/01/51	J. Mallinson	G.H.S.;Index;Amicus *;W. Grayson *;Joseph Lawson *;Nemo *;Zeta *	5;5;5;5;5;5;5	Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan-52;Jan-52;	xx;xx;xx;xx;xx;xx;xx	44;;;;;;
+429	5	10/01/51	T. Pigg	G.H.S.;Amicus *;W. Grayson *;Nemo *	5;5;5;5	Jan 52 Jan 52;Jan-52;Jan-52;	xx;xx;xx;xx	79;;;
+430	5	11/01/51	W.H. Levy	G.H.S.;W.H. Levy;Amicus *;J. Brookes *;J. Davison *;W. Grayson *;J.D.C. *;Joseph Lawson *;M.W.H. Levy *;Nemo *;Sedulus *;Zeta *	5;5;5;5;5;5;5;5;5;5;5;5	Feb-52;Feb 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan-52;Jan-52;Jan-52;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	47;;;;;;;;;;;
+431	5	11/01/51	J.H. Swale	J.H. Swale;Dr. Rutherford;Amicus *;J. Davison *;W. Grayson *;M.W.H. Levy *;E. Rutter *;J. F. Wilkinson *	5;5;5;5;5;5;5;5	Feb-52;Feb 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;;	xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;
+-432	5	11/01/51	J.W.H.H.	Nemo;Amicus *;J. Brookes *;J. Davison *;W. Grayson *;J.W.H.H *;M.W.H. Levy *;Nemo *;E. Rutter *;Sedulus *	5;5;5;5;5;5;5;5;5;5	Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan-52;Jan-52;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	2;;;;;;;;;
+-433	5	11/01/51	Unknown	Sedulus;Amicus *;J. Brookes *;J. Davison *;J. Gawn *;W. Grayson *;Joseph Lawson *;M.W.H. Levy *;Nemo *;E. Rutter *;W. Turnbull *;Zeta *	5;5;5;5;5;5;5;5;5;5;5;5	Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	2;;;;;;;;;;;
+-434	5	11/01/51	Unknown	J. Davison;Amicus *;J. Brookes *;J. Davison *;W. Grayson *;J. Gawn *;Joseph Lawson *;M.W.H. Levy *;Nemo *;E. Rutter *;Sedulus *;W. Turnbull *;C. Tunnicliffe *;Zeta *	5;5;5;5;5;5;5;5;5;5;5;5;5;5	Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan-52;Jan-52;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;
+-435	5	11/01/51	Unknown	Nemo;Amicus *;J. Brookes *;J. Davison *;W. Grayson *;J. Gawn *;J.D.C. *;J.W.H.H. *;Joseph Lawson *;M.W.H. Levy *;E. Rutter *;Sedulus *;John Sugden *;W. Turnbull *;C. Tunnicliffe *;Zeta *	5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5	Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	78;;;;;;;;;;;;;;;
+-436	5	11/01/51	Unknown	G.H.S.;Amicus *;J. Davison *;W. Grayson *;M.W.H. Levy *;Nemo *;W. Turnbull *;Zeta *	5;5;5;5;5;5;5;5	Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;;	xx;xx;xx;xx;xx;xx;xx;xx	3;;;;;;;
+-437	5	11/01/51	Unknown	G.H.S.;Amicus *;J. Davison *;W. Grayson *;J.W.H.H. *;Joseph Lawson *;M.W.H. Levy *;Nemo *;E. Rutter *;Sedulus *;W. Turnbull *;Zeta *	5;5;5;5;5;5;5;5;5;5;5;5	Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;
+-438	5	11/01/51	Unknown	Sedulus;Amicus *;J. Brookes *;J. Davison *;J. Gawn *;W. Grayson *;Joseph Lawson *;M.W.H. Levy *;Nemo *;E. Rutter *;John Sugden *;W. Turnbull *;C. Tunnicliffe *;Zeta *	5;5;5;5;5;5;5;5;5;5;5;5;5;5	Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan-52;Jan-52;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;
+-439	5	11/01/51	Unknown	Index;Amicus *;J. Brookes *;J. Davison *;W. Grayson *;J.D.C. *;J. Gawn *;Joseph Lawson *;M.W.H. Levy *;Nemo *;E. Rutter *;Sedulus *;W. Turnbull *;Zeta *	5;5;5;5;5;5;5;5;5;5;5;5;5;5	Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;
+440	5	11/01/51	J.W. Elliott	Dr. Rutherford;J. Brookes;J.W. Elliott;J.C. St. Clair;Amicus *;J. Davison *;J. Gawn *;W. Grayson *;J.D.C. *;M.W.H. Levy *;Nemo *;E. Rutter *;M. Reynolds *;John Sugden *;W. Turnbull *;C. Tunnicliffe *;Zeta *	5;5;5;xx;5;5;5;5;5;5;5;5;5;5;5;5;5	Mar-52;Mar-52;Mar-52;xx;Jan-52;Jan-52;Jan-52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;Jan 52 Jan 52;Jan-52;Jan-52;;	xx;xx;xx;60;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	45;;;;;;;;;;;;;;;;
+441	5	11/01/51	J.W. Elliott	J.S. Jenkins;G.H.S. *;Joseph Lawson *	5;5;5	Feb-52;Jan-52;Jan-52	xx;xx;xx	53;;
+442	5	12/01/51	M.N.	J.W. Elliott;J.S. Jenkins *	5;5	Feb-52;Jan-52	xx;xx	86;
+443		Missing		Index ;J.S. Jenkins *	5;5	Jan-52;Jan-52	xx;xx	;
+444	5	12/01/51	T.T. Wilkinson	Dr. Rutherford;G.H.S.;T.T. Wilkinson;J.S. Jenkins *	5;5;5;5	Feb-52;Feb-52;Feb-52;Jan-52	xx;xx;xx;xx	62;;;
+445	5	12/01/51	S. Tebay	S. Tebay;Wilkin Thomasson;G.H.S. *;J.S. Jenkins *	5;5;5;5	Feb-52;Apr-52;Jan-52;Jan-52	U58;xx;xx;xx	17;;;
+-446	5	12/01/51	Unknown	W.S.B.;Alpha *;J. Gawn *;G.H.S. *;Index *;J.S. Jenkins *;Joseph Lawson *	5;5;5;5;5;5;5	Feb 52 Jan 52;Jan-52;Jan-52;Jan-52;Jan-52;Jan-52;	xx;xx;xx;xx;xx;xx;xx	22;;;;;;
+-447	5	12/01/51	Unknown	Index;J. Davison;Alpha *;G.H.S. *;J.S. Jenkins *;Joseph Lawson *	5;5;5;5;5;5	Feb-52;Feb 52 Jan 52;Jan-52;Jan-52;Jan-52;	xx;xx;xx;xx;xx;xx	47;;;;;
+-448	5	12/01/51	T.T. Wilkinson	Nemo;G.H.S. *;Joseph Lawson *	5;5;5	Mar-52;Jan-52;Jan-52	xx;xx;xx	61;;
+-449	5	12/01/51	J. Wingfield	J. Davison	5	03/01/52	xx	61
+-450	5	12/01/51	Unknown	J.S. Jenkins	5	02/01/52	xx	41
+-451	5	12/01/51	Unknown	John Brookes	5	02/01/52	xx	22
+-452	5	12/01/51	Unknown	Zeta	5	03/01/52	xx	22
+-453	5	12/01/51	Unknown	W. Grayson;Index	5;5	Feb-52;Feb-52	xx;xx	41;
+-454	5	12/01/51	Unknown	J.S. Jenkins;J. Moylan	5;5	Feb-52;Feb-52	xx;xx	22;
+455	5	01/01/52	J.H. Swale 	Dr. Rutherford;Leo Sislor;J.C. St. Clair	5;5;46	Mar-52;Mar-52;Apr-93	xx;xx;59	41;;
+456	5	01/01/52	J.H. Swale	Dr. Rutherford;J.C. St. Clair	5;46	Mar-52;Apr-93	xx;59	41;
+457	5	01/01/52	Enquirer	Amicus	5	04/01/52	xx	79
+458	5	01/01/52	Septimus Tebay	S. Tebay	5	03/01/52	U58	11
+459	5	01/01/52	J. Wingfield	Dr. Rutherford	5	03/01/52	xx	3
+460	5	01/01/52	T.T. Wilkinson	Dr. Rutherford;Leo Sislor	5;5	Mar-52;Mar-52	xx;xc	41;
+461	5	01/01/52	J. Wingfield	J. Scott	5	03/01/52	xx	41
+-462	5	01/01/52	G.H.S.	Pulciput	5	03/01/52	xx	22
+-463	5	01/01/52	James Maclaurin	J. Scott;E. Rutter;Unknown	5;5;5	Mar-52;May-52;Jun-52	xx;xx;xx	41;;
+-464	5	01/01/52	James Maclaurin	J. Davison	5	03/01/52	xx	41
+-465	5	01/01/52	J. Brookes	Nemo	5	03/01/52	xx	2
+-466	5	01/01/52	John Giblin	R.G. Clarke	5	03/01/52	xx	78
+-467	5	01/01/52	J. Wingfield	J. Scott	5	03/01/52	xx	3
+468	5	02/01/52	Otter	Dr. Rutherford	5	04/01/52	xx	44
+469	5	02/01/52	S. Tebay	S. Tebay	5	05/01/52	U58	12g
+470	5	02/01/52	G.H.S.	G.H.S.	5	05/01/52	xx	53
+471	5	02/01/52	J.W. Elliott	T.T. Wilkinson;J.W. Elliott;Dr. Rutherford	5;5;5	Apr-52;Apr-52;May-52	xx;xx;xx	41;;
+472	5	02/01/52	Amicus	Pulciput	5	05/01/52	xx	61
+473	5	02/01/52	John Dixon	Zeta	5	04/01/52	xx	79
+-474	5	02/01/52	J.S. Jenkins	;	;	;	;	22;
+-475	5	02/01/52	John Mylne	Index	5	04/01/52	xx	41
+-476	5	02/01/52	John Dixon	Index;Zeta	5;5	Apr-52;Apr-52	xx;xx	3;
+477	5	02/01/52	R. Sheffield					22
+-478	5	02/01/52	Nemo	Index	5	04/01/52	xx	22
+-479	5	02/01/52	G.H.S.	Nemo	5	04/01/52	xx	22
+-480	5	02/01/52	Nemo	G.H.S.	5	04/01/52	xx	3
+-481	5	02/01/52	Nemo	J. Dixon	5	04/01/52	xx	3
+482	5	03/01/52	J.H. Swale	M. Brierley;Ramachandra Row;W.J. Greenstreet;Prof. Gopalachanar;J.H. Swale;Scrutator *	49;49;xx;xx;5;5	Mar-96;Mar-96;xx;xx;May-52;Jun-52	65;xx;61;65;xx;xx	41;;;;;
+483	5	03/01/52	J.H. Swale	G.H.S.;Leo Sislor;J.C. St. Clair	5;5;46	May-52;May-52;Oct-93	xx;xx;60	41;;
+484	5	03/01/52	J.H. Swale	G.H.S.;Dr. Rutherford;W.J. Greenstreet;M. Brierley	5;5;46;46	May-52;May-52;Nov-93;Nov-93	xx;xx;60;60	41;;;
+485	5	03/01/52	Geometricus	Geometricus	5	05/01/52	xx	47
+486	5	03/01/52	Theon	Dr. Rutherford;Hibernicus	5;7	Jun-52;May-54	xx;xx	41;
+-487	5	03/01/52	G.H.S.	G.H.S.	5	05/01/52	xx	74
+-488	5	03/01/52	J.S. Jenkins	T.E. Bradley	5	05/01/52	xx	3
+-489	5	03/01/52	J.S. Jenkins	Pulciput	5	06/01/52	xx	3
+-490	5	03/01/52	John Giblin	Zeta	5	07/01/52	xx	48
+-491	5	03/01/52	J. Brookes	J. Brookes	5	06/01/52	xx	3
+-492	5	03/01/52	Nemo	Zeta				22
+-493	5	03/01/52	Nemo	A.D. Belfour	5	05/01/52	xx	61
+494	5	03/01/52	Index	A.D. Belfour	5	05/01/52	xx	41
+495	5	04/01/52	S. Tebay	T.T. Wilkinson;S. Tebay	5;5	Jun-52;Jul-52	xx;xx	41;
+496	5	04/01/52	Geometricus	Zeta				41
+497	5	04/01/52	Nemo	Dr. Rutherford	5	07/01/52	xx	44
+498	5	04/01/52	Nemo					79
+499	5	04/01/52	W.H. Levy	G.H.S.;Index	5;5	Jun-52;Jun-52	xx;xx	41;
+500	5	04/01/52	Zeta	Scrutator	5	06/01/52	xx	74
+501	5	04/01/52	Nemo	Nemo	5	06/01/52	xx	22
+502	5	04/01/52	Nemo	Unknown	5	06/01/52	xx	61
+503	5	04/01/52	Bathurst Henderson	W. Turnbull	5	06/01/52	xx	22
+504	5	04/01/52	Zeta	Index;Nemo	5;5	Jun-52;Jun-52	xx;xx	2;
+505	5	04/01/52	R.G. Clarke	Index;G.B.M. Zerr;Prof. Bhattacharya	5;48;xx	Jun 52 May 95;xx;	xx;63;63	52;;
+506	5	05/01/52	J.H. Swale	J.H. Swale	6	07/01/52	xx	41
+507	5	05/01/52	J.H. Swale	W. Turnbull;J.H. Swale	5;5	Jun-52;Jul-52	U58;xx	41;
+508	5	05/01/52	J.H. Swale	J.H. Swale	5	07/01/52	U58	41
+509	5	05/01/52	Thomas Morley	Dr. Rutherford;K.J. Sanjána;Prof. Mukhopadhyay	;48;48	Aug-52;Aug-95;Aug-95	xx;64;64	41;;
+510	5	05/01/52	T. McNamara	Dr. Rutherford	5	08/01/52	xx	61
+511	5	05/01/52	π.β.θ	W. Grayson	5	08/01/52	xx	22
+512	5	05/01/52	π.β.θ	W. Grayson	5	08/01/52	xx	22
+513	5	05/01/52	π.β.θ	W. Grayson;	5;	Aug-52;	xx;	22;
+514	5	05/01/52	π.β.θ 	W. Grayson;Nemo	5;5	Aug-52;Aug-52	xx;xx	17;
+-515	5	05/01/52	Unknown	Stephen Watson;H. Stewart	5;5	Jul-52;Jul-52	xx;xx	3;
+-516	5	05/01/52	Unknown	Nemo	5	07/01/52	xx	3
+517	5	06/01/52	T.T. Wilkinson					4
+518	5	06/01/52	T.T. Wilkinson	J.C.O.	5	08/01/52	U58	41
+519	5	06/01/52	J.W. Elliott	Dr. Rutherford;Stephen Watson	5;5	Aug-52;Aug-52	xx;xx	41;
+520	5	06/01/52	Dr. Wilson					10
+521	5	06/01/52	Louis Skrodzki					17
+522	5	06/01/52	Scrutator					45
+-523	5	06/01/52	Scrutator	Nemo;Pulciput *	5;6	Aug-52;Oct-52	xx;xx	3;
+-524	5	06/01/52	George Carterfield					10
+-525	5	06/01/52	Henry Stewart	Nemo	5	08/01/52	xx	61
+-526	5	06/01/52	Joseph Lawson				U58	17
+-527	5	06/01/52	Thomas Morley	R.G. Clarke;G.B.M. Zerr *;W.J. Greenstreet *	5;xx;xx	Aug-52;xx;xx	xx;60;60	20;;
+528	5	07/01/52	J.H. Swale	Mons. Louis Skrodzki *	6	10/01/52	U58	92
+529	5	07/01/52	J.H. Swale	Mons. Louis Skrodzki	6	10/01/52	U58	44
+530	5	07/01/52	Geometricus	;E. Lampe	;47	;Feb-94	;61	;41
+531	5	07/01/52	Signor Totelli	W. Grayson	6	10/01/52	xx	31
+532	5	07/01/52	J.W. Elliott	Pulciput;Mons. Louis Skrodzki *	6;6	Oct-52;Oct-52	xx;xx	3;
+533	5	07/01/52	Dr. Wilson	Pulciput	6	10/01/52	xx	41
+534	5	07/01/52	R.G. Clarke					79
+535	5	07/01/52	M.C. Guernsey	Mons. L. Skrodski	6	10/01/52	xx	86
+536	5	07/01/52	Ματθηατιχος					9
+537	5	08/01/52	T.E. Bradley	J.W. Elliott;Matthew Collins *;W.H. Levy *;Pulciput *;Stephen Watson *;Samuel Younger *	6;6;6;6;6;6	Oct-52;Oct-52;Oct-52;Oct-52;Oct-52;Oct-52	xx;xx;xx;xx;xx;xx	41;;;;;
+538	5	08/01/52	J.W. Elliott	M. Collins;J.W. Elliott;W.H. Levy *;Samuel Younger *	6;6;6;6	Oct-52;Nov 52 Oct 52;Oct-52;	xx;xx;xx;xx	53;;;
+539	5	08/01/52	J.W. Elliott	J.W. Elliott;Scrutator;Matthew Collins *;W.H. Levy *;Pulciput *;Mon. Louis Skrodzki *;Stephen Watson *	6;6;6;6;6;6;6	Oct-52;Oct 52 Oct 52;Oct-52;Oct-52;Oct-52;Oct-52;	U58;xx;xx;xx;xx;xx;xx	44;;;;;;
+540	5	08/01/52	J.W. Elliott	J.W. Elliott;Dr. Rutherford ;Matthew Collins *;Mon. Louis Skrodzki *;Samuel Younger *	6;6;6;6;6	Nov-52;Nov 52 Oct 52;Oct-52;Oct-52;	U58;xx;xx;xx;xx	17;;;;
+541	5	08/01/52	Louis Skrodkzi	Zeta;Scrutator;Matthew Collins *;Pulciput *	6;6;6;6	Oct-52;Dec 52 Oct 52;Oct-52;	xx;xx;xx;xx	79;;;
+542	5	08/01/52	George Carterfield	Stephen Watson;Matthew Collins *;Mon. Louis Skrodzki *	6;6;6	Oct 52 Oct 52;Oct-52;	xx;xx;xx	53;;
+-543	5	08/01/52	Zeta	G.H. Hewison;A.D. Belfour *;Matthew Collins *;W.H. Levy *;H. Stewart *;Stephen Watson *	6;6;6;6;6;6	Oct 52 Oct 52;Oct-52;Oct-52;Oct-52;Oct-52;	xx;xx;xx;xx;xx;xx	22;;;;;
+-544	5	08/01/52	Zeta	Zeta;A.D. Balfour *;Matthew Collins *;W.H. Levy *;H. Stewart *;Stephen Watson *	6;6;6;6;6;6	Oct 52 Oct 52;Oct-52;Oct-52;Oct-52;Oct-52;	xx;xx;xx;xx;xx;xx	22;;;;;
+-545	5	08/01/52	Zeta	Zeta;A.D. Balfour *;Matthew Collins *;W.H. Levy *;H. Stewart *;W.J.B. *	6;6;6;6;6;6	Oct 52 Oct 52;Oct-52;Oct-52;Oct-52;Oct-52;	xx;xx;xx;xx;xx;xx	22;;;;;
+546	5	08/01/52	Ματθηατιχος	W.H. Levy;A.D. Belfour *;Matthew Collins *;C.B. Higman *;H. Stewart *;W.J.B. *	6;6;6;6;6;6	Nov 52 Oct 52;Oct-52;Oct-52;Oct-52;Oct-52;	xx;xx;xx;xx;xx;xx	22;;;;;
+547	5	09/01/52	Stephen Watson	Stephen Watson;D. Rutherford;W.H. Levy;K.S. Putnam;Joseph Barnes *;Matthew Collins *;G.H.S. *;Index *;Mon. Louis Skrodzki *;Scrutator *	6;6;6;xx;6;6;6;6;6;6	Nov-52;Nov-52;Dec-52;xx;Nov 52 Oct 52;Oct-52;Oct-52;Oct-52;Oct-52;	xx;xx;xx;67;xx;xx;xx;xx;xx;xx	2;;;;;;;;;
+548	5	09/01/52	W.H. Levy	W.H. Levy;G.H.S.;Mons. L. Skrodski;Pulciput;Matthew Collins *;G.H. Hewison *;Index *;T. McNamara *;E. Rutter *;Scrutator *;P. Warren *;Stephen Watson *;Zeta *	6;6;6;6;6;6;6;6;6;6;6;6;6	Nov-52;Nov-52;Nov-52;Nov-52;Oct-52;Jan-53; Oct 52;Nov-52;Nov-52;Oct-52;Nov-52;Nov-52;Nov-52	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	44;;;;;;;;;;;;
+549	5	09/01/52	J.H. Swale	J.H. Swale;Dr. Rutherford;W.J. Greenstreet;G.B.M. Zerr;Joseph Barnes *;Matthew Collins *;W. Grayson *;G.H.S. *;J. Hewison *;Index *;W.H. Levy *;T. McNamara *;Pulciput *;E. Rutter *;Mon. Louis Skrodzki *;Scrutator *;W. Turnbull *;P. Warren *;Stephen Watson *;Zeta *	6;6;xx;xx;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6	Nov-52;Nov-52;xx;xx;Nov 52 Oct 52;Oct-52;Oct-52;Nov-52;Oct-52;Nov-52;Nov-52;Nov-52;Nov-52;Oct-52;Oct-52;Nov-52;Nov-52;Nov-52;Nov-52;	xx;xx;60;60;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;;;;;;
+550	5	09/01/52	J.H. Swale	Dr. Rutherford;J.H. Swale;Joseph Barnes *;Matthew Collins *;W. Grayson *;G.H.S. *;J. Hewison *;Index *;W.H. Levy *;T. McNamara *;Pulciput *;E. Rutter *;Mon. Louis Skrodzki*;Scrutator *;W. Turnbull *;P. Warren *;Stephen Watson *;Zeta *	6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6	Nov-52;Nov-52;Nov-52;Oct-52;Oct-52;Oct-52;Nov-52;Oct 52 Nov 52;Nov-52;Nov-52;Nov-52;Oct-52;Oct 52 Nov 52;Nov-52;Nov-52;Nov-52;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;;;;
+551	5	09/01/52	J.H. Swale	Dr. Rutherford;J.H. Swale;Joseph Barnes *;Matthew Collins *;W. Grayson *;G.H.S. *;J. Hewison *;Index *;W.H. Levy *;T. McNamara *;E. Rutter *;Mon. Louis Skrodzki*;Scrutator *;W. Turnbull *;P. Warren *;Stephen Watson *;Zeta *	6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6	Nov-52;Nov-52;Nov-52;Oct-52;Oct-52;Oct-52;Nov-52;Oct-52;Nov-52;Nov-52;Nov-52;Oct-52;Oct 52 Nov 52;Nov-52;Nov-52;Nov-52;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;;;
+552	5	09/01/52	J.H. Swale	Dr. Rutherford;J.H. Swale;Joseph Barnes *;Matthew Collins *;W. Grayson *;G.H.S. *;J. Hewison *;Index *;W.H. Levy *;T. McNamara *;E. Rutter *;Scrutator *;W. Turnbull *;P. Warren *;Zeta *	6;6;6;6;6;6;6;6;6;6;6;6;6;6;6	Nov-52;Nov-52;Nov-52;Oct-52;Oct-52;Oct-52;Nov-52;Oct 52 Nov 52;Nov-52;Nov-52;Oct 52 Nov 52;Nov-52;Nov-52;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;
+553	5	09/01/52	J.H. Swale	J.H. Swale;Dr. Rutherford;F.M. Shields;G.B.M. Zerr;Joseph Barnes *;Matthew Collins *;W. Grayson *;G.H.S. *;J. Hewison *;Index *;T. McNamara *;E. Rutter *;Scrutator *;P. Warren *;Zeta *	6;6;xx;xx;6;6;6;6;6;6;6;6;6;6;6	Nov-52;Nov-52;xx;xx;Nov-52;Oct-52;Oct-52;Oct-52;Nov-52;Oct-52;Nov-52;Nov-52;Oct-52;Nov-52;Nov-52	xx;xx;60;60;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;;;;;
+554	5	09/01/52	Geometricus	Stephen Watson;Dr. Rutherford;W.J. Greenstreet;Prof. Bhattacharya;Matthew Collins *;G.H.S. *;Index *;W.H. Levy *;E. Rutter *;Scrutator *;Zeta *	6;6;xx;xx;6;6;6;6;6;6;6	Dec-52;Dec-52;xx;xx;Oct-52;Oct-52;Oct-52;Nov-52;Nov-52;Oct-52;Nov-52	xx;xx;60;60;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;
+555	5	09/01/52	Nemo	G.H.S.;Matthew Collins *;Index *;W.H. Levy *;Pulciput *;E. Rutter *;Stephen Watson *;Zeta *	6;6;6;6;6;6;6;6	Nov-52;Oct-52;Oct-52;Nov-52;Nov-52;Nov-52;Nov-52;Nov-52	xx;xx;xx;xx;xx;xx;xx;xx	4;;;;;;;
+556	5	09/01/52	Nemo	Pulciput;Matthew Collins *;G.H.S. *;W.H. Levy *;E. Rutter *;Stephen Watson *;Zeta *	6;6;6;6;6;6;6	Dec-52;Oct-52;Oct 52 Nov 52;Nov-52;Nov-52;Nov-52;	xx;xx;xx;xx;xx;xx;xx	4;;;;;;
+557	5	09/01/52	Nemo	Stephen Watson;Matthew Collins *;G.H.S. *;W.H. Levy *;Pulciput *;Zeta *	6;6;6;6;6;6	Dec-52;Oct-52;Oct 52 Nov 52;Nov-52;Nov-52;	xx;xx;xx;xx;xx;xx	4;;;;;
+558	5	09/01/52	Nemo	Zeta;G.H.S. *;Pulciput *;Stephen Watson *	6;6;6;6	Nov-52;Oct-52;Nov-52;Nov-52	xx;xx;xx;xx	41;;;
+559	6	10/01/52	W.H. Levy	W.H. Levy;Dr. Rutherford *;E. Rutter *;P. Warren *;Stephen Watson *;Zeta *	6;6;6;6;6;6	Dec-52;Dec-52;Dec-52;Dec-52;Dec-52;Dec-52	xx;xx;xx;xx;xx;xx	47;;;;;
+560	6	10/01/52	G.H.S.	G.H.S.;W.H. Levy *;Dr. Rutherford *;Leo Sislor *;Mon. Louis Skrodzki*;Stephen Watson *;Zeta *	6;6;6;6;6;6;6	Jan-53;Dec-52;Dec-52;Nov-52;Nov-52;Dec-52;Dec-52	xx;xx;xx;xx;xx;xx;xx	51;;;;;;
+561	6	10/01/52	R.G. Clarke	James Spray;G.H.S.;R.G. Clarke *;W. Grayson *;G.H. Hewison *;Inaen *;J.L.C. *;James Mallinson *;Dr. Rutherford *;E. Rutter *;Mon. Louis Skrodzki *;S. Spray *;S.W.C. *;J. Taylor *;W. Turnbull *;Stephen Watson *;T. Wilkinson *;Zeta *	6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6	Dec-52;Dec-52;Dec-52;Nov-52;Dec-52;Nov 52 Dec 52;Dec-52;Dec-52;Dec-52;Nov-52;Dec-52;Nov 52 Dec 52;Dec-52;Dec 52 Dec 52;Dec-52;;;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	47;;;;;;;;;;;;;;;;;
+562	6	10/01/52	Mons. Skrodzki	T.T. Wilkinson;W. Grayson *;G.H. Hewison *;Mon. Louis Skrodzki *;S. Spray *;P. Warren *;Stephen Watson *;Zeta *	6;6;6;6;6;6;6;6	Dec-52;Nov-52;Dec-52;Nov 52 Dec 52;Dec-52;Dec-52;Dec-52;	xx;xx;xx;xx;xx;xx;xx;xx	20;;;;;;;
+563	6	10/01/52	Mons. Skrodzki	Dr. Rutherford;W. Grayson *;G.H. Hewison *;Dr. Rutherford *;Mon. Louis Skrodzki *;S. Spray *;Stephen Watson *;Zeta *	6;6;6;6;6;6;6;6	Dec-52;Nov-52;Dec-52;Dec-52;Nov 52 Dec 52;Dec-52;Dec-52;	xx;xx;xx;xx;xx;xx;xx;xx	20;;;;;;;
+564	6	10/01/52	J.W. Elliott	J.W. Elliott;T.T. Wilkinson;R.G. Clarke *;G.H. Hewison *;S. Spray *;T. Wilkinson *;Zeta *	6;6;6;6;6;6;6	Jan-53;Jan 53 Dec 52;Dec-52;Dec 52 Dec 52;Dec-52;;	U58;xx;xx;xx;xx;xx;xx	20;;;;;;
+-565	6	10/01/52	J.W. Elliott	J.W. Elliott;C.R. Honey;G.H.S.;G.H. Hewison *;Inaen *;W.H. Levy *;S. Spray *;Stephen Watson *;Zeta *	6;6;6;6;6;6;6;6;6	Jan-53;Jan-53;Jan-53;Dec-52;Nov 52 Dec 52;Dec-52;Dec-52;Dec-52;	xx;xx;xx;xx;xx;xx;xx;xx;xx	1;;;;;;;;
+-566	6	10/01/52	J.W. Elliott	J.W. Elliott	6	01/01/53	xx	22
+-567	6	10/01/52	Mαθηατιος	Index;G.H.S.;W.J. Greenstreet;G.B.M. Zerr;R.G. Clarke *;G.H. Hewison *;Inaen *;W.H. Levy *;S. Spray *;P. Warren *;Stephen Watson *	6;6;xx;xx;6;6;6;6;6;6;6	Jan-53;Jan-53;xx;xx;Dec-52;Dec-52;Nov 52 Dec 52;Dec-52;Dec-52;Dec-52;	xx;xx;60;60;xx;xx;xx;xx;xx;xx;xx	20;;;;;;;;;;
+-568	6	10/01/52	G.H. Hewison	Zeta;W. Grayson *;E.H. Shorto *;P. Warren *	6;6;6;6	Dec-52;Nov-52;Dec-52;Dec-52	xx;xx;xx;xx	22;;;
+569	6	11/01/52	C.J. Brianchion	T.T. Wilkerson;Scrutator;Danos *;W. Grayson *;W.H. Levy *;Dr. Rutherford *;Mon. Louis Skrodski *;Stephen Watson *;Zeta *	6;6;6;6;6;6;6;6;6	Jan-53;Feb-53;Jan-53;Dec-52;Jan-53;Jan-53;Jan-53;Jan-53;Jan-53	xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;
+570	6	11/01/52	Gaspard Monge	T.T. Wilkinson;Dr. Rutherford;Discipulus *;W. Grayson *;W.H. Levy *;Scrutator *;Mon. Louis Skrodski *;Stephen Watson *;Zeta *	6;6;6;6;6;6;6;6;6	Jan-53;Jan-53;Jan-53;Dec 52 Jan 53;Jan-53;Jan 53 Jan 53;Jan-53;;	xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;
+571	6	11/01/52	Ματθηατιχος	Dr. Rutherford;G.H. Hewison *;Scrutator *;Zeta *	6;6;6;6	Feb 53 Jan 53;Jan-53;Jan-53;	xx;xx;xx;xx	10;;;
+572	6	11/01/52	J.W. Elliott	S. Watson;I. Beyens;G.B.M. Zerr;Scrutator *;Mon. Louis Skrodski *;Zeta *	6;46;46;6;6;6	Feb-53;May-93;May 93 Jan 53;Jan-53;Jan-53;	xx;59;59;xx;xx;xx	79;;;;;
+573	6	11/01/52	J.W. Elliott	Dr. Rutherford;Discipulus *;Scrutator *;Stephen Watson *	6;6;6;6	Feb 53 Jan 53;Jan-53;Jan-53;	xx;xx;xx;xx	44;;;
+574	6	11/01/52	Pappus	T.T. Wilkinson;Scrutator	6;6	Mar-53;Jun-53	xx;xx	41;
+-575	6	11/01/52	Zeta	S. Watson;Dr. Rutherford *;Zeta *	6;6;6	Feb 53 Jan 53;Jan-53;	xx;xx;xx	41;;
+-576	6	11/01/52	Zeta	S. Watson;Zeta *	6;6	Feb-53;Jan-53	xx;xx	41;
+-577	6	11/01/52	Zeta	S. Watson;Zeta *	6;6	Feb-53;Jan-53	xx;xx	41;
+578	6	12/01/52	Scrutator	T.T. Wilkinson;Dr. Rutherford;Mon. Louis Skrodski *	6;6;6	Mar-53;Mar-53;Feb-53	xx;xx;xx	41;;
+579	6	12/01/52	J.H. Swale	J.H. Swale;T.T. Wilkinson *	6;6	Mar-53;Jan-53	U58;xx	41;
+580	6	12/01/52	J.H. Swale	Dr. Rutherford;J.H. Swale;T.T. Wilkinson *	6;6;6	Mar-53;Mar-53;Jan-53	xx;xx;xx	41;;
+581	6	12/01/52	J.H. Swale	Dr. Rutherford;J.H. Swale;T.T. Wilkinson *	6;6;6	Mar-53;Mar-53;Jan-53	U58;xx;xx	41;;
+582	6	12/01/52	J.H. Swale	J.H. Swale;Dr. Rutherford *;T.T. Wilkinson *	6;6;6	Mar-53;Feb-53;Jan-53	U58;xx;xx	74;;
+583	6	12/01/52	Mons. Skrodzki	T.T. Wilkinson;Dr. Rutherford *;Mon. Louis Skrodski *	6;6;6	Mar-53;Feb-53;Feb-53	xx;xx;xx	20;;
+584	6	12/01/52	Dr. Wilson	T.T. Wilkinson	7	05/01/54	xx	41
+585	6	12/01/52	Dr. Wilson	J.L. Challis;W.H. Levy *;J. Taylor *;W. Turnbull *;T.T. Wilkinson *	6;6;6;6;6	Mar-53;Feb-53;Mar-53;Feb-53;Jan-53	xx;xx;xx;xx;xx	74;;;;
+586	6	12/01/52	Dr. Wilson	T.T. Wilkinson;William Priestley *;Mon. Louis Skrodski *	7;6;6	May-54;Feb-53;Feb-53	xx;xx;xx	41;;
+-587	6	12/01/52	C.R. Honey	C.R. Hewison;W.H. Levy *;J. Taylor *;W. Turnbull *	6;6;6;6	Mar-53;Feb-53;Mar-53;Feb-53	xx;xx;xx;xx	3;;;
+-588	6	12/01/52	C.R. Honey	C.R. Hewison;W.H. Levy *;J. Taylor *;W. Turnbull *	6;6;6;6	Mar-53;Feb-53;Mar-53;Feb-53	xx;xx;xx;xx	3;;;
+-589	6	12/01/52	R.G. Clarke	R.G. Clarke;G.H. Hewison *;W.H. Levy *;William Priestley *;J. Taylor *	6;6;6;6;6	Mar-53;Feb-53;Feb-53;Feb-53;Mar-53	xx;xx;xx;xx;xx	52;;;;
+-590	6	12/01/52	M.C. Guernsey	Dr. Rutherford;Matthew Collins;G.H. Hewison *	6;6;6	Apr-53;May-53;Feb-53	xx;xx;xx	61;;
+591	6	01/01/53	M. Collins	W.H. Levy	6	03/01/53	xx	41
+592	6	01/01/53	Anonymous	Dr. Rutherford;W.H. Levy *	6;6	Apr-53;Mar-53	xx;xx	20;
+593	6	01/01/53	Anonymous					17
+594	6	01/01/53	Enquirer	Zeta;Enquirer;G.H. Hewison *;W.H. Levy *	6;6;6;6	Apr-53;May-53;Mar-53;Mar-53	xx;xx;xx;xx	91;;;
+595	6	01/01/53	W. Priestley	Dr. Rutherford;John Brookes *;W.H. Levy *	6;6;6	Apr-53;Mar-53;Mar-53	U58;xx;xx	47;;
+596	6	01/01/53	W. Grayson	Stephen Watson;W. Grayson *;Scrutator *	6;6;6	Apr-53;Apr-53;May-53	U58;xx;xx	41;;
+597	6	01/01/53	W. Grayson	Scrutator;John Brookes;Matthew Collins *;Dr. Rutherford *;Stephen Watson *	6;6;6;6;6	Apr-53;Apr-53;May-53;Apr-53;Apr-53	xx;xx;xx;xx;xx	41;;;;
+598	6	01/01/53	Dr. Wilson	Dr. Rutherford;Matthew Collins *;Scrutator *;Stephen Watson *	6;6;6;6	Apr-53;May-53;Mar-53;Apr-53	xx;xx;xx;xx	4;;;
+599	6	03/01/53	Dr. Wilson	T. Pooley;G.H.S. *;Dr. Rutherford *;H. Stewart *	6;6;6;6	May-53;May-53;May-53;May-53	xx;xx;xx;xx	41;;;
+600	6	03/01/53	Dr. Wilson	A.H. Belfour;Dr. Rutherford;Stephen Watson;G.H.S. *;J. Pooley *	6;6;6;6;6	May-53;May-53;May-53;May-53;May-53	xx;xx;xx;xx;xx	22;;;;
+601	6	03/01/53	S. Watson	Stephan Watson;G.B.M. Zerr;Prof. Bhattacharya;R.G. Clarke *;G.H.S. *;W.H. Levy *;J. Pooley *;Dr. Rutherford *;H. Stewart *	6;47;47;6;6;6;6;6;6	Jun-53;Jun-94;Jun-94;May-53;May-53;May-53;May-53;May-53;May-53	xx;61;61;xx;xx;xx;xx;xx;xx	46;;;;;;;;
+602	6	03/01/53	W.H. Levy					20
+603	6	03/01/53	Omega	R.G. Clarke;Omega;Agemo *;A.D. Belfour *;ε’ *;G.H.S. *;G.H. Hewison *;J. Pooley *;W.H. Levy *;Dr. Rutherford *;H. Stewart *;Stephen Watson *;J. Brookes *	6;6;6;6;6;6;6;6;6;6;6;6;	Jun-53;Jun-53;Apr-53;May-53;Apr-53;May-53;May-53;May-53;May-53;May-53;May-53;May-53;Jun-53	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	9;;;;;;;;;;;;
+-604	6	03/01/53	Omega	G.H.S.;A.D. Belfour *;W.H. Levy *;J. Pooley *;J. Brookes *	6;6;6;6;6	May-53;May-53;May-53;May-53;Jun-53	xx;xx;xx;xx;xx	47;;;;
+-605	6	03/01/53	Unknown	A.D. Belfour *;G.H.S. *;G.H. Hewison *;H. Stewart *;Stephen Watson *;J. Brookes *	6;6;6;6;6;6	Jun-53;May-53;May-53;May-53;May-53;Jun-53	xx;xx;xx;xx;xx;xx	22;;;;;
+606	6	04/01/53	J. Oswald	Matthew Collins	6	07/01/53	U58	20
+607	6	04/01/53	S. Tebay	Stephen Watson;A.D. Belfour *;J. Brookes *;Matthew Collins *;W.H. Levy *;Dr. Rutherford *;E. Rutter *;Stephen Watson *	6;6;6;6;6;6;6;6	Jun-53;May-53;Jun-53;Jun-53;Jun-53;Jun-53;Jun-53;Jun-53	xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;
+608	6	04/01/53	W.H. Levy	"Dr. Rutherford;""Brookes;Matthew Collins *;W.H. Levy *;E. Rutter *;Stephen Watson *"	"6; J. *"";6;6;6;6"	Jul-53;6;Jun-53;Jun-53;Jun-53;Jun-53	xx;Jun-53;xx;xx;xx;xx	41;xx
+609	6	04/01/53	J.W. Elliott	Stephen Watson;Scrutator;Matthew Collins *;W.H. Levy *;E. Rutter *	6;6;6;6;6	Jun-53;Jun-53;Jun-53;Jun-53;Jun-53	xx;xx;xx;xx;xx	41;;;;
+610	6	04/01/53	John Dixon	Matthew Collins;W.H. Levy *;Dr. Rutherford *;Scrutator *	6;6;6;6	Jun-53;Jun-53;Jun-53;Jun-53	xx;xx;xx;xx	41;;;
+611	6	04/01/53	Nemo	Scrutator;Stephen Watson	6;6	Jun-53;Jun-53	xx;xx	79;
+612	6	04/01/53	M.N.	J.S. Jenkins;Matthew Collins *;Scrutator *;Stephen Watson *	6;6;6;6	Jul-53;Jun-53;Jun-53;Jun-53	xx;xx;xx;xx	41;;;
+613	6	04/01/53	J.S. Jenkins	Matthew Collins ;J.S. Jenkins;W.H. Levy *;Scrutator *;Stephen Watson *;T.T. Wilkinson *	6;6;6;6;6;6	Jun-53;Jul-53;Jun-53;Jun-53;Jun-53;Jun-53	xx;xx;xx;xx;xx;xx	53;;;;;
+614	6	05/01/53	Ματθηατιχος					41
+615	6	05/01/53	W. Priestley	G.H.S.;G.B.M. Zerr;Matthew Collins *;W.H. Levy *;G. Mitchell *;E. Rutter *;James Spray *;Stephen Watson *;W *	6;50;7;6;6;6;6;6;7	Jul-53;Mar-97;Oct-53;Jul-53;Jul-53;Jul-53;Jul-53;Jul-53;Oct-53	xx;67;xx;xx;xx;xx;xx;xx;xx	79;;;;;;;;
+616	6	05/01/53	T.T. Wilkinson	William Grayson;G.H.S.;Matthew Collins *;John Knight *;W.H. Levy *;E. Rutter *;Stephen Watson *;T.T. Wilkinson *	6;6;7;6;6;6;6;6	Jul-53;Jul-53;Oct-53;Jul-53;Jul-53;Jul-53;Jul-53;Jul-53	xx;xx;xx;xx;xx;xx;xx;xx	87;;;;;;;
+617	6	05/01/53	T.T. Wilkinson	W.H. Levy;William Grayson;Geometricus;Matthew Collins *;Scrutator *;Stephen Watson *	6;6;7;7;6;6	Sep-53;Sep-53;Oct-53;Oct-53;Jul-53;Jul-53	xx;xx;xx;xx;xx;xx	74;;;;;
+618	6	05/01/53	Omega	John Knight;Matthew Collins *;Rev. W. Grayson *;W.H. Levy *;Index *;E. Rutter *;James Spray *;Scrutator *;W *;Stephen Watson *	6;7;6;6;6;6;6;6;7;6	Jul-53;Oct-53;Jul-53;Jul-53;Jul-53;  Jul 53;Jul-53;Jul-53;Oct-53;Jul-53	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;
+619	6	05/01/53	A.D. Belfour	Scrutator;A.D. Belfour;G.B.M. Zerr;Prof. Aiyar;Matthew Collins *	6;6;48;xx;7	Aug-53;Aug-53;May-95;xx;Oct-53	xx;xx;63;63;xx	41;;;;
+620	6	05/01/53	Omega	G.H.S.;R.G. Clarke *;W. Grayson *;J.S. Jenkins *;W.H. Levy *;G. Mitchell *;Scrutator *;Stephen Watson *	6;7;6;6;6;6;6;6	Jul-53;Oct-53;Jun-53;Jun-53;Jul-53;Jul-53;Jul-53;Jul-53	xx;xx;xx;xx;xx;xx;xx;xx	53;;;;;;;
+621	6	05/01/53	Omega	Scrutator;Matthew Collins *;R.G. Clarke *;W. Grayson *;J.S. Jenkins *;Index *;G. Mitchell *;E. Rutter *;Stephen Watson *	6;7;7;6;6;6;6;6;6	Jul-53;Oct-53;Oct-53;Jun-53;Jun-53;Jul-53;Jul-53;Jul-53;Jun-53	xx;xx;xx;xx;xx;xx;xx;xx;xx	53;;;;;;;;
+622	6	05/01/53	G.H.S.	Index;Matthew Collins *;W. Grayson *;J.S. Jenkins *;W.H. Levy *;Scrutator *;Stephen Watson *	6;7;6;6;6;6;6	Jul-53;Oct-53;Jun-53;Jun-53;Jul-53;Jul-53;Jul-53	xx;xx;xx;xx;xx;xx;xx	53;;;;;;
+-623	6	05/01/53	Dr. Wilson	Nemo;G.H.S.;W. Grayson *;R. Henderson *;J.S. Jenkins *	6;6;6;6;6	Jul-53;Jul-53;Jun-53;Jun-53;Jun-53	xx;xx;xx;xx;xx	22;;;;
+-624	6	05/01/53	Dr. Wilson	Nemo;G.H.S. *	6;6	Jul-53;Jun-53	xx;xx	22;
+625	6	06/01/53	W.H. Levy	Stephen Watson	7	10/01/53	xx	79
+626	6	06/01/53	Geometricus	Geometricus	7	10/01/53	xx	41
+627	6	06/01/53	Geometricus	Stephen Watson;Geometricus	7;7	Nov-53;Oct-54	xx;xx	79;
+628	6	06/01/53	Stephen Watson	Stephen Watson;Dr. Rutherford;G.B.M. Zerr	7;7;xx	Oct-53;Oct-53;xx	xx;xx;68	79;;
+629	6	06/01/53	Stephen Watson	Stephen Watson	7	11/01/53	xx	89
+630	6	06/01/53	Dr. Wilson	William Grayson;Nemo;James Spray *;Stephen Watson *	6;6;7;7	Aug-53;Aug-53;Oct-53;Oct-53	xx;xx;xx;xx	41;;;
+631	6	06/01/53	Matthew Collins	W.J. Greenstreet	46	04/01/93	59	44
+632	6	06/01/53	Matthew Collins	Matthew Collins	7	06/01/54	Xx	77
+633	6	06/01/53	Scrutator					41
+634	6	07/01/53	T. Gaskins	T. Gaskins;G.H.S. *;Hibernicus *	6;7;7	Sep-53;Oct-53;Oct-53	xx;xx;xx	74;;
+635	6	07/01/53	T. Gaskins	T. Gaskins;K.S. Putnam;G.H.S. *;Hibernicus *;W.H. Levy *;Scrutator *	6;50;7;7;7;7	Sep-53;Mar-97;Oct-53;Oct-53;Oct-53;Oct-53	xx;67;xx;xx;xx;xx	41;;;;;
+636	6	07/01/53	T. Gaskins	T. Gaskins;Hibernicus *;Scrutator *	6;7;7	Sep-53;Oct-53;Oct-53	xx;xx;xx	41;;
+637	6	07/01/53	Omega	G.H.S.;Hibernicus *;W.H. Levy *	6;7;7	Sep-53;Oct-53;Oct-53	xx;xx;xx	79;;
+638	6	07/01/53	W.H. Levy	Scrutator;Hibernicus *;W.H. Levy *	7;7;7	Nov-53;Oct-53;Oct-53	xx;xx;xx	41;;
+639	6	07/01/53	W.H. Levy	John Knight;G.H.S. *;Hibernicus *;W.H. Levy *;Scrutator *;James Spray *;S.H.M. *;W. Turnbull *	7;7;7;7;7;7;7;7	Nov 53 Oct 53;Oct-53;Oct-53;Oct 53 Oct 53;Oct-53;Oct-53;;	xx;xx;xx;xx;xx;xx;xx;xx	88;;;;;;;
+640	6	07/01/53	W.H. Levy	W. Grayson;S.H.M.;G.H.S. *;Hibernicus *;G.H. Hewison *;John Knight *;Scrutator *;James Spray *;W. Turnbull *;Stephen Watson *	6;7;7;7;7;7;7;7;7;7	Sep-53;Nov-53;Oct-53;Oct-53;Oct-53;Oct 53 Oct 53;Oct-53;Oct-53;Oct-53;	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;
+641	6	07/01/53	Merones Minor	Hibernicus;G.H.S.;Scrutator *;S.H.M. *;Anonymous *	7;7;7;7;7	Nov-53;Nov-53;Oct-53;Oct-53;Dec-53	xx;xx;xx;xx;xx	44;;;;
+642	6	08/01/53	Robert Livsey	John Knight;Scrutator *;Zeta *;Anonymous *	7;7;7;7	Nov-53;Oct-53;Nov-53;Dec-53	xx;xx;xx;xx	87;;;
+642.5			T. Gaskin	T. Gaskin	7	10/01/53	xx	41
+643	6	08/01/53	J.S. Jenkins	W.F. Greenfield;S.H.M.*;Zeta *;Anonymous *	7;7;7;7	Nov-53;Oct-53;Nov-53;Dec-53	xx;xx;xx;xx	53;;;
+643.5			T. Gaskin	T. Gaskin	7	10/01/53	xx	41
+644	6	08/01/53	Enquirer	Enquirer;Zeta *;Anonymous *	7;7;7	Nov-53;Nov-53;Dec-53	xx;xx;xx	76;;
+644.5			T. Gaskin	T. Gaskin (2 sols);Zeta *	7;7	Oct-53;Nov-53	xx;xx	74;
+645	6	08/01/53	Enquirer	Enquirer;Zeta *;Anonymous *	7;7;7	Feb-54;Nov-53;Dec-53	xx;xx;xx	22;;
+645.5			T. Gaskin	T. Gaskin (2 sol)	7	10/01/53	xx	41
+646	6	08/01/53	James Burgess	W.F. Greenfield;Stephen Watson *;Enquirer *;Zeta *;Anonymous *	7;7;7;7;7	Nov-53;Oct-53;Nov-53;Nov-53;Dec-53	xx;xx;xx;xx;xx	86;;;;
+647	6	08/01/53	M. Collins	Dr. Parr;Zeta *;Anonymous *	7;7;7	Oct-53;Nov-53;Dec-53	U58;xx;xx	84;;
+647.5			T. Gaskin	T. Gaskin	7	10/01/53	xx	41
+648	6	08/01/53	M. Collins	Zeta *;Nemo *	7;7	Nov-53;Dec-53	xx;xx	17;
+648.5			T. Gaskin	T. Gaskin;Zeta *	7;7	Oct-53;Nov-53	xx;xx	41;
+649	7	10/01/53	T.T. Wilkinson	T.T. Wilkinson;Stephen Watson *;Zeta *;Nemo *	7;7;7;7	Dec-53;Oct-53;Nov-53;Dec-53	xx;xx;xx;xx	41;;;
+650	7	10/01/53	John Williams	Hibernicus;D. Biddle;Nemo *	7;46;7	Jan-54;Jul-93;Dec-53	xx;60;xx	41;;
+651	7	10/01/53	Amicus	T.T. Wilkinson;Nemo *	7;7	Feb-54;Dec-53	xx;xx	41;
+652	7	10/01/53	Amicus	Nemo 	7	12/01/53	xx	41
+653	7	10/01/53	S.H.M. 	S.H.M. ;Nemo *	7;7	Dec-53;Dec-53	xx;xx	20;
+654	7	10/01/53	Kate Sullivan	Nemo 	7	12/01/53	U58	41
+-655	7	10/01/53	Tyro	G.H. Hewison;J.W. Carver *;Nemo *;Stephen Watson *	7;7;7;7	Dec-53;Dec-53;Dec-53;Dec-53	xx;xx;xx;xx	3;;;
+-656	7	10/01/53	Nemo	J.W. Carver;Nemo *;J.B. Swallwell *;Stephen Watson *	7;7;7;7	Dec 53 Dec 53;Dec-53;Dec-53;	xx;xx;xx;xx	22;;;
+-657	7	10/01/53	Nemo	W. Skene;J.W. Carver *;Nemo *;J.B. Swallwell *;Stephen Watson *	7;7;7;7;7	Dec 53 Dec 53;Dec-53;Dec-53;Dec-53;	xx;xx;xx;xx;xx	22;;;;
+-658	7	10/01/53	Nemo	J.W. Carver;G.H. Hewison *;Nemo *;W. Skene *;J. B. Swallwell *	7;7;7;7;7	Dec 53 Dec 53;Dec-53;Dec-53;Dec-53;	xx;xx;xx;xx;xx	22;;;;
+659	7	10/01/53	Hibernicus	Hibernicus;Scrutator *;Analyticus *;Stephen Watson *	7;7;7;7	Aug-54;Dec-53;Feb-54;Mar-54	U58;xx;xx;xx	52;;;
+660	7	11/01/53	John Knight	T.T. Wilkinson	7	03/01/54	xx	45
+661	7	11/01/53	T.T. Wilkinson	Scrutator;A. Constant Reader;W.J. Greenstreet;Prof. Morel	7;7;46;46	Jan-54;Feb-54;Sep-93;Sep-93	xx;xx;xc;xx	41;;;
+662	7	11/01/53	T.T. Wilkinson	Scrutator;T.T. Wilkinson;W.J. Greenstreet;Prof. Morel;S. Younger *	7;7;46;46;7	Feb-54;Feb-54;Sep-93;Sep-93;Feb-54	xx;xx;60;60;xx	47;;;;
+663	7	11/01/53	Scrutator	W;[Corrected solution];Samuel Younger	7;7;7	Jan-54;Apr-54;Jan-54	xx;xx;xx	41;;
+664	7	11/01/53	J.S. Jenkins	Samuel Younger;G.H.S. *;Οΰτις *	7;7;7	Jan-54;Jan-54;Jan-54	xx;xx;xx	46;;
+665	7	11/01/53	J.S. Jenkins	Anonymous;G.H.S.;Samuel Younger *;Οΰτις *;W. *	7;7;7;7;7	Jan-54;Jan-54;Dec-53;Jan-54;Jan-54	xx;xx;xx;xx;xx	79;;;;
+-666	7	11/01/53	J.W.	A.W. Carver	7	01/01/54	xx	3
+-667	7	11/01/53	J.W.	A.W. Carver	7	02/01/54	xx	3
+-668	7	11/01/53	J.W.	W.H. Levy;G.H. Hewson *	7;7	Mar-54;Jan-54	xx;xx	41;
+669	7	12/01/53	Publicanus					11
+670	7	12/01/53	J.O. Clazey	Nemo	7	03/01/54	xx	1
+671	7	12/01/53	T.T. Wilkinson	T.T. Wilkinson;Stephen Watson *	7;7	Feb-54;Mar-54	      xx;xx	41;
+672	7	12/01/53	W	W;T.T. Wilkinson;S. Younger *;Nemo *;S.H.M. *;Stephen Watson *	7;7;7;7;7;7	Mar-54;Apr-54;Jan-54;Feb-54;Feb-54;Mar-54	xx;xx;xx;xx;xx;xx	79;;;;;
+673	7	12/01/53	Quaesitor	Οΰτις ;Nemo *	7;7	Feb-54;Feb-54	xx;xx	18;
+674	7	12/01/53	Samuel Younger	S. Younger;Οΰτις ;Nemo *	7;7;7	Apr-54;Apr-54;Feb-54	U58;xx;xx	18;;
+675	7	12/01/53	Amicus	T.T. Wilkinson	7	02/01/54	xx	86
+676	7	12/01/53	Amicus					86
+677	7	12/01/53	W.H. Levy	Stephen Watson;W.H. Levy *	7;7	Mar-54;Mar-54	xx;xx	41;
+678	7	12/01/53	John Dixon	T. Gaskin;Stephen Watson;Nemo *	7;7;7	Feb-54;Mar-54;Feb-54	U58;xx;xx	56;;
+-679	7	12/01/53	Unknown	Stephen Watson;T. Gifford *	7;7	Mar-54;Feb-54	xx;xx	3;
+-680	7	12/01/53	Unknown					17
+681	7	01/01/54	M.C.	M. 	7	03/01/54	xx	6
+682	7	01/01/54	M.C.	T.T. Wilkinson;Mortimer Collins *	7;7	Nov-54;Nov-54	xx;xx	77;
+683	7	01/01/54	W----------	Stephen Watson;G.H.S.	7;7	Mar-54;Mar-54	xx;xx	18;
+684	7	01/01/54	Dr. Wilson	T.T. Wilkinson	7	06/01/54	xx	91
+685	7	01/01/54	S. Younger	S. Younger;Stephen Watson *	7;7	May-54;Mar-54	U58;xx	46;
+686	7	01/01/54	Amicus	Stephen Watson *;W.H. Levy *	7;7	Mar-54;Apr-54	xx;xx	47;
+-687	7	01/01/54	M.C. 	G.H.S.;S.H.M. * ;A.W.C. *;S. Gifford *;Nemo *	7;7;7;7;7	Mar-54;Feb-54;Mar-54;Mar-54;Mar-54	xx;xx;xx;xx;xx	22;;;;
+-688	7	01/01/54	Dr. Wilson	Stephen Watson;Nemo *	7;7	Mar-54;Mar-54	xx;xx	41;
+-689	7	01/01/54	Dr. Wilson	Nemo;A.W.C. *;Stephen Watson *	7;7;7	Mar-54;Mar-54;Mar-54	xx;xx;xx	3;;
+690	7	02/01/54	T.T. Wilkinson	T.T. Wilkinson	7	04/01/54	xx	74
+691	7	02/01/54	T.T. Wilkinson	Nemo;F.D.C. *;Samuel Younger *;A.W.C. *;Pulciput *;Οΰτις *;G.H. Hewison *	7;7;7;7;7;7;7	Apr-54;Mar-54;Mar-54;Apr-54;Apr-54;Apr-54;May-54	xx;xx;xx;xx;xx;xx;xx	41;;;;;;
+692	7	02/01/54	S.H.M. 	S.H.M.	7	04/01/54	xx	17
+693	7	02/01/54	Geometricus	Stephen Watson *	7	04/01/54	xx	41
+694	7	02/01/54	S. Watson	Pulciput ;W.H. Levy *;Stephen Watson *	7;7;7	May-54;Apr-54;Apr-54	xx;xx;xx	41;;
+695	7	02/01/54	Matthew Collins	Matthew Collins;Stephen Watson *	8;7	Jun-55;Apr-54	xx;xx	3;
+696	7	02/01/54	S.H.M. 	S.H.M. ;J.W. Elliott *;Stephen Watson *	7;7;7	May-54;Apr-54;Apr-54	xx;xx;xx	44;;
+-697	7	02/01/54	T.T. Wilkinson	Nemo ;Index *;Stephen Watson *	7;7;7	Apr-54;Mar-54;Apr-54	xx;xx;xx	22;;
+-698	7	02/01/54	T.T. Wilkinson	Index ;Stephen Watson *;G.H. Hewison *	7;7;7	Apr-54;Mar-54;May-54	xx;xx;xx	3;;
+-699	7	02/01/54	W.	Pulciput ;T.T. Wilkinson *	7;7	May-54;May-54	xx;xx	44;
+-700	7	02/01/54	Nemo	S.M. Drach;Pulciput *	7;7	Apr-54;Apr-54	xx;xx	77;
+-701	7	02/01/54	Nemo					17
+702	7	03/01/54	Geometricus	Geometricus;Nemo *;Stephen Watson *	7;7;7	Jun-54;May-54;May-54	U58;xx;xx	41;;
+703	7	03/01/54	Geometricus	Geometricus	7	06/01/54	xx	41
+704	7	03/01/54	Index	Index;Nemo *;Stephen Watson *	7;7;7	May-54;May-54;May-54	xx;xx;xx	45;;
+705	7	03/01/54	M. Collins	S. Watson	7	05/01/54	xx	41
+706	7	03/01/54	J. Elliott	J.W. Elliott;Nemo *;Stephen Watson *	7;7;7	Sep-54;Apr-54;May-54	U58;xx;xx	79;;
+707	7	03/01/54	S.H.M.	Οΰτις;F.D.C. *;Nemo *;Stephen Watson *;Zeta *	7;7;7;7;7	Jun-54;Apr-54;Apr-54;May-54;Jun-54	xx;xx;xx;xx;xx	11;;;;
+-708	7	03/01/54	M. Collins	S. Watson;F.D.C. *;Nemo *;Plus and Minus *;A.D.C. *;Nemo *;Stephen Watson *	7;7;7;7;7;7;7	May-54;Apr-54;Apr-54;Apr-54;May-54;May-54;May-54	xx;xx;xx;xx;xx;xx;xx	22;;;;;;
+-709	7	03/01/54	M, Collins;Plus and Minus *;A.D.C. *	Nemo;7;7	7;Apr-54;May-54	Jun-54;xx;xx	xx	22;;
+-710	7	03/01/54	M. Collins	Nemo;Plus and Minus *;A.D.C. *;F.D.C. *	7;7;7;7	Jun-54;Apr-54;May-54;May-54	xx;xx;xx;xx	22;;;
+-711	7	03/01/54	Rev. T. Gaskin	John Knight *	7	06/01/54	U58	12
+712	7	04/01/54	T.T. Wilkinson	T.T. Wilkinson	7	09/01/54	xx	74
+713	7	04/01/54	W.	W.;Pulciput *;Stephen Watson *;R.H. Wright *	7;7;7;7	Sep-54;Jun-54;Jun-54;Sep-54	xx;xx;xx;xx	44;;;
+714	7	04/01/54	J.W. Elliott	J.W. Elliott;Pulciput;Plus and Minus *;Quaesitor *;Stephen Watson *	7;7;7;7;7	Sep-54;Sep-54;Jun-54;Jun-54;Jun-54	U58;xx;xx;xx;xx	18;;;;
+715	7	04/01/54	J.S. Jenkins	J. Knight;Plus and Minus *;Quaesitor *;Stephen Watson *	7;7;7;7	Jun-54;Jun-54;Jun-54;Jun-54	xx;xx;xx;xx	41;;;
+716	7	04/01/54	Thomas Morley	T.T. Wilkinson;Stephen Watson *;W.H. Levy *	7;7;7	Nov-54;Jun-54;Nov-54	xx;xx;xx	17;;
+717	7	04/01/54	T.E. Bradley	Plus and Minus;F.D.C. *;Stephen Watson *;Geometricus *	7;7;7;7	Jun-54;Jun-54;Jun-54;Sep-54	xx;xx;xx;xx	41;;;
+-718	7	04/01/54	αΰτοδιδακτος	Stephen Watson;Plus and Minus *;Pulciput *;Quaesitor *	7;7;7;7	Jun-54;Jun-54;Jun-54;Jun-54	xx;xx;xx;xx	41;;;
+-719	7	04/01/54	αΰτοδιδακτος	Stephen Watson;F.D.C. *;Plus and Minus *;Pulciput *;Quaesitor *	7;7;7;7;7	Jun-54;May-54;Jun-54;Jun-54;Jun-54	xx;xx;xx;xx;xx	41;;;;
+-720	7	04/01/54	αΰτοδιδακτος	T.T. Wilkinson;Pulciput *;Stephen Watson *	7;7;7	Nov-54;Jun-54;Jun-54	xx;xx;xx	3;;
+-721	7	04/01/54	Mortimer Collins	F.D.C. ;W.J. Greenstreet;G.B.M. Zerr;Μαθηματχος *;Plus and Minus *;Quaesitor *	7;xx;xx;7;7;7	Jun-54;xx;xx;Jun-54;Jun-54;Jun-54	xx;60;60;xx;xx;xx	2;;;;;
+-722	7	04/01/54	Mortimer Collins	Stephen Watson;F.D.C. ;James Spray *	7;7;7	Jun-54;Jun-54;Jun-54	xx;xx;xx	22;;
+723		Missing						
+724	7	05/01/54	Geometricus	Stephen Watson *	7	09/01/54	xx	47
+725	7	05/01/54	J.W. Elliott	J.W. Elliott;Stephen Watson *	7;7	Sep-54;Sep-54	xx;xx	45;
+726	7	05/01/54	Signor Totelli	S. Younger;D. Biddle;K.S. Putnam	7;46;46	Jun-54;Oct-93;Oct-93	xx;60;60	8;;
+727	7	05/01/54	Analyticus	Geometricus *	7	09/01/54	xx	41
+728	7	05/01/54	T.T. Wilkinson	T.T. Wilkinson;S. Younger;Stephen Watson *	7;7;7	Sep-54;Sep-54;Sep-54	xx;xx;xx	11;;
+729	7	05/01/54	T.T. Wilkinson	T.T. Wilkinson	7	09/01/54	xx	22
+730	7	05/01/54	Amicus	S. Younger;Stephen Watson *	7;7	Sep-54;Sep-54	xx;xx	47;
+731	7	05/01/54	Amicus	W. Whiting;Mortimer Collins;A. Martin;G.B.M. Zerr;F.D.C. *;W. Whiting *	7;7;xx;xx;7;7	Sep-54;Sep-54;xx;xx;Jun-54;Jun-54	xx;xx;61;61;xx;xx	9;;;;;
+732	7	05/01/54	Amicus	W. Whiting *	7	09/01/54	xx	22
+-733	7	05/01/54	Amicus	Nemo ;G.H. Hewison *;Stephen Watson *	7;7;7	Oct-54;Sep-54;Sep-54	xx;xx;xx	3;;
+-734	7	05/01/54	Amicus					3
+-735	7	05/01/54	M.C.	Nemo ;James Spray *;G.H. Hewison *;Stephen Watson *;W. Whiting *	7;7;7;7;7	Oct-54;Jun-54;Sep-54;Sep-54;Sep-54	xx;xx;xx;xx;xx	22;;;;
+-736	7	05/01/54	M. Collins					61
+-737	7	05/01/54	M. Collins	Nemo ;Stephen Watson *	7;7	Oct-54;Sep-54	xx;xx	3;
+-738	7	05/01/54	M. Collins					8
+-739	7	05/01/54	M. Collins	Stephen Watson *	7	09/01/54	xx	2
+-740	7	05/01/54	M. Collins	G.H. Hewison;James Spray *;F.D.C. *;Stephen Watson *;W. Whiting *	7;7;7;7;7	Oct-54;Jun-54;Sep-54;Sep-54;Sep-54	xx;xx;xx;xx;xx	22;;;;
+741	7	06/01/54	J.W. Elliott	T.A. Coombe	7	11/01/54	U58	92
+742	7	06/01/54	J.W. Elliott	Steven Fenwick;Stephen Watson *	7;7	Nov-54;Sep-54	xx;xx	46;
+743	7	06/01/54	Plus & Minus	J. Knight;R.H. Wright;Plus and Minus *;Stephen Watson *	7;7;7;7	Nov-54;Nov-54;Sep-54;Sep-54	xx;xx;xx;xx	41;;;
+744	7	06/01/54	Plus & Minus	R.H. Wright;J. Knight;Plus and Minus *	7;7;7	Nov-54;Nov-54;Sep-54	xx;xx;xx	41;;
+745	7	06/01/54	J. Knight	J. Knight;Stephen Watson *	7;7	Oct-54;Sep-45	xx;xx	74;
+746	7	06/01/54	S. Watson	J. Knight;S. Watson	7;7	Nov-54;Dec-54	xx;xx	3;
+747	7	06/01/54	M. Collins	Kate Sullivan;E. Rutter *;Stephen Watson *	7;7;7	Oct-54;Sep-54;Sep-54	xx;xx;xx	77;;
+748	7	06/01/54	Geometricus	J. Knight;Stephen Watson *	7;7	Oct-54;Sep-54	xx;xx	41;
+749	7	06/01/54	Geometricus	J. Knight	7	10/01/54	xx	74
+750	7	09/01/54	T.T. Wilkinson	T.T. Wilkinson;J. Knight *;W.H. Levy *;S. Watson *	7;7;7;7	Dec-54;Nov-54;Nov-54;Dec-54	xx;xx;xx;xx	41;;;
+751	7	09/01/54	M. Chasles	M. Chasles;W.H. Levy *	7;7	Dec-54;Nov-54	xx;xx	41;
+752	7	09/01/54	Unknown	Οΰτις;Nemo *;W.H. Levy *	7;7;7	Dec-54;Oct-54;Nov-54	xx;xx;xx	46;;
+753	7	09/01/54	Unknown	Index;F.X.J. *;Nemo *;W.F. Greenfield *;J. Knight *;M. *	7;7;7;7;7;7	Nov-54;Oct-54;Oct-54;Nov-54;Nov-54;Nov-54	xx;xx;xx;xx;xx;xx	41;;;;;
+754	7	09/01/54	Unknown	M. ;Nemo *	7;7	Dec-54;Oct-54	xx;xx	47;
+755	7	09/01/54	F.D.C.	W.F. Greenfield;F.X.J. *;Nemo *;S. Watson *	7;7;7;7	Dec-54;Oct-54;Oct-54;Dec-54	xx;xx;xx;xx	2;;;
+756	7	09/01/54	Matthew Collins	Index;H.W. Curjel ;F.D.C. *;G. Mitchell *;Nemo *;W.F. Greenfield *;J. Knight *;W.H. Levy *;Οΰτις *;S. Watson *	7;xx;7;7;7;7;7;7;7;7	Dec-54;xx;Oct-54;Oct-54;Oct-54;Nov-54;Nov-54;Nov-54;Nov-54;Dec-54	xx;61;xx;xx;xx;xx;xx;xx;xx;xx	56;;;;;;;;;
+757	7	09/01/54	Dr. Wilson	T.T. Wilkinson	7	12/01/54	Xx	91
+758	7	10/01/54	J. Knight	S. Watson;J. Bel *;C.C. *;J. Knight *;Nemo *;G. Mitchell *;S. Watson *	7;7;7;7;7;7;7	Dec-54;Nov-54;Nov-54;Nov-54;Nov-54;Dec-54;Dec-54	xx;xx;xx;xx;xx;xx;xx	41;;;;;;
+759	7	10/01/54	S. Watson	C.C.;Nemo *;S. Watson *	7;7;7	Dec-54;Nov-54;Dec-54	xx;xx;xx	41;;
+760	7	10/01/54	S. Watson	S. Watson	8	01/01/55	xx	79
+761	7	10/01/54	αΰτοδιδακτος	C.C.;S. Starrit *	7;8	Dec-54;Jan-55	xx;xx	41;
+762	7	10/01/54	S. Watson	Samuel Younger;C.C. *;G. Mitchell *;S. Starrit *;S. Watson *	7;7;7;8;7	Dec-54;Nov-54;Dec-54;Jan-55;Dec-54	xx;xx;xx;xx;xx	41;;;;
+763	7	10/01/54	αΰτοδιδακτος	aΰτοδιδακτος ;C.C. *;Nemo *;S. Starrit *;S. Younger *;S. Watson *	7;7;7;8;7;7	Dec-54;Nov-54;Nov-54;Jan-55;Nov-54;Dec-54	xx;xx;xx;xx;xx;xx	92;;;;;
+764	7	11/01/54	Mortimer Collins	S. Watson ;W.J. Greenstreet;M. Brierley;G. Mitchell *;S. Starrit *;S. Watson *	7;xx;xx;8;8;8	Feb-55;xx;xx;Jan-55;Jan-55;Jan-55	xx;60;60;xx;xx;xx	22;;;;;
+765	7	11/01/54	Mortimer Collins	J. Knight;Index *;Nemo *;J. Knight *;G. Mitchell *;Plus and Minus *;Edward Rutter *;J. Spray *;S. Starrit *;Velox *;S. Watson *	8;7;7;8;8;8;8;8;8;8;8	Jan-55;Dec-54;Dec-54;Jan-55;Jan-55;Jan-55;Jan-55;Jan-55;Jan-55;Jan-55;Jan-55	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;;
+766	7	11/01/54	W.	S. Starrit;Index *;Nemo *;S. Starrit *;Velox *	8;7;7;8;8	Jan-55;Dec-54;Dec-54;Jan-55;Jan-55	xx;xx;xx;xx;xx	79;;;;
+767	7	11/01/54	John Williams	Nemo ;S. Starrit *	7;8	Dec-54;Jan-55	xx;xx	41;
+768	7	11/01/54	J.W. Elliott	Nemo 	7	12/01/54	xx	53
+769	7	11/01/54	J.W. Elliott	James Spray;Nemo;A. Martin;G.B.M. Zerr;K.S. Putnam;Index *;Mathematicus *;Nemo *;G. Mitchell *;J. Spray *;S. Starrit *	8;8;xx;xx;xx;7;7;7;8;8;8	Jan-55;May-55;xx;xx;xx;Dec-54;Dec-54;Dec-54;Jan-55;Jan-55;Jan-55	xx;xx;61;67;67;xx;xx;xx;xx;xx;xx	2;;;;;;;;;;
+770	7	11/01/54	Omega	J. Knight;Index *;Nemo *;J. Knight *;G. Mitchell *;J. Spray *;Plus and Minus *;Edward. Rutter *;S. Starrit *;S. Watson *	8;7;7;8;8;8;8;8;8;8	Jan-55;Dec-54;Dec-54;Jan-55;Jan-55;Jan-55;Jan-55;Jan-55;Jan-55;Jan-55	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	41;;;;;;;;;
+771	7	11/01/54	Henry Stewart					74
+772	7	12/01/54	T.T. Wilkinson	W. Shepherd	8	04/01/55	xx	41
+773	7	12/01/54	T.T. Wilkinson	J. Knight;G. Mitchell *	8;8	Feb-55;Apr-55	xx;xx	86;
+774	7	12/01/54	Dr. Wilson					91
+-775	7	12/01/54	Unknown	G. Mitchell *	8	02/01/55	xx	9
+-776	7	12/01/54	Unknown	J. Burgess;J. Doune *	8;8	Feb-55;Feb-55	xx;xx	18;
+-777	7	12/01/54	Unknown					22
+778	8	01/01/55	Mortimer Collins	G.H.S.;G. Mitchell *;Velox *;S. Starrit *	8;8;8;8	Mar-55;Mar-55;Mar-55;Apr-55	xx;xx;xx;xx	9;;;
+779	8	01/01/55	Mortimer Collins	G.H.S.;S. Starrit *	8;8	Mar-55;Apr-55	xx;xx	9;
+780	8	01/01/55	Mortimer Collins	G.H. Hewison;G.H.S. *;J. Hewson *;J.D.C. *;G. Mitchell *;Velox *;W. Whiting *;R. Wilkinson *;G.A. Carterfield *;S. Starrit *	8;8;8;8;8;8;8;8;8;8	Mar-55;Feb-55;Feb-55;Mar-55;Mar-55;Mar-55;Mar-55;Mar-55;Apr-55;Apr-55	xx;xx;xx;xx;xx;xx;xx;xx;xx;xx	22;;;;;;;;;
+781	8	01/01/55	M. Collins	G.H.S.;S. Watson;G.A. Carterfield *	8;8;8	Mar-55;Mar-55;Apr-55	xx;xx;xx	6;;
+782	8	01/01/55	R.H. Wright	G.H.S.;S. Watson;T.T. Wilkinson *;S. Watson *;G.A. Carterfield *;G. Mitchell *	8;8;8;8;8;8	Mar-55;Mar-55;Mar-55;Mar-55;Apr-55;Apr-55	xx;xx;xx;xx;xx;xx	44;;;;;
+783	8	01/01/55	R.H. Wright	S. Watson;T.T. Wilkinson *;S. Watson *;J. Knight *	8;8;8;8	Mar-55;Mar-55;Mar-55;Jun-55	xx;xx;xx;xx	44;;;
+784	8	01/01/55	R.H. Wright	S. Watson;T.T. Wilkinson *;S. Watson *	8;8;8	Mar-55;Mar-55;Mar-55	xx;xx;xx	44;;
+785	8	01/01/55	Mortimer Collins	W. Whiting;G.B.M. Zerr;J.D.C. *;J. Knight *;Velox *;W. Whiting *;R. Wilkinson *;S. Watson *;G. Mitchell *;S. Starrit *	8;xx;8;8;8;8;8;8;8;8	Mar-55;xx;Mar-55;Mar-55;Mar-55;Mar-55;Mar-55;Mar-55;Mar-55;Apr-55	xx;60;xx;xx;xx;xx;xx;xx;xx;xx	52;;;;;;;;;
+786	8	02/01/55	G.H.S.	Index;G. Mitchell *;S. Younger *;J. Knight *;Dr. Rutherford *;S. Watson *	8;8;8;8;8;8	Apr-55;Mar-55;Mar-55;Apr-55;Apr-55;Apr-55	xx;xx;xx;xx;xx;xx	48;;;;;
+787	8	02/01/55	Mathematicus	Dr. Rutherford ;S. Younger;J. Knight *;S. Watson *	8;8;8;8	Apr-55;Apr-55;Mar-55;Apr-55	xx;xx;xx;xx	9;;;
+788	8	02/01/55	Mathematicus	J. Knight;[Same solution];S. Younger *	8;12;8	Jul-55;Jan-59;Mar-55	xx;xx;xx	2;;
+789	8	02/01/55	T.T. Wilkinson	S. Younger;Dr. Rutherford ;S. Watson *;Nemo *	8;8;8;8	Apr-55;Apr-55;Apr-55;Jun-55	xx;xx;xx;xx	86;;;
+790	8	02/01/55	T.T. Wilkinson	Index;Dr. Rutherford;Nemo *;Zeta *	8;8;8;8	Apr-55;Apr-55;Jun-55;Jun-55	xx;xx;xx;xx	11;;;
+791	8	03/01/55	Kate Sullivan 	Hibernicus;Nemo *;Zeta *	8;8;8	Jun-55;Jun-55;Jun-55	xx;xx;xx	52;;
+791.5	8	03/01/55	Hibernicus	Hibernicus	8	06/01/55	xx	77
+792	8	03/01/55	Dr. Wilson	Nemo *;Zeta *	8;8	Jun-55;Jun-55	xx;xx	91;
+793	8	03/01/55	J. Burgess	S. Younger;J. Burgess *;Nemo *	8;8;8	May-55;Apr-55;Jun-55	xx;xx;xx	92;;
+794	8	03/01/55	J. Burgess					9
+795	8	03/01/55	Mortimer Collins	Index;G.H.S. *;Zeta *	8;8;8	May-55;Feb-55;Jun-55	xx;xx;xx	22;;
+796	8	03/01/55	Mortimer Collins					22
+797	8	04/01/55	Mortimer Collins	G.B.M. Zerr	51	05/01/98	69	17
+798	8	04/01/55	Mortimer Collins					5
+799	8	04/01/55	Mortimer Collins	S. Watson	8	07/01/55	Xx	1
+800	8	04/01/55	Mortimer Collins	E. White	46	08/01/93	60	6
+801	8	04/01/55	Samuel Younger	S. Younger;Nemo *;S. Younger *;Zeta *	8;8;8;8	Jun-55;Jun-55;Jun-55;Jun-55	U58;xx;xx;xx	17;;;
+802	8	04/01/55	G. Mitchell	G. Mitchell;Zeta *	8;8	Sep-55;Jun-55	xx;xx	9;
+803	8	04/01/55	Index	Zeta *	8	06/01/55	xx	5
+804	8	04/01/55	Index	S. Watson;Nemo *;Zeta *	8;8;8	Jul-55;Jun-55;Jun-55	xx;xx;xx	53;;
+805	8	04/01/55	G.H.S.	S. Watson	8	07/01/55	xx	61
+806	8	04/01/55	G.H.S.					11
+807	8	05/01/55	S. Younger	S. Younger	8	06/01/55	U58	11
+808	8	05/01/55	S. Watson	S. Watson	8	09/01/55	U58	11
+809	8	05/01/55	J. Burgess					46
+810	8	05/01/55	Mortimer Collins	K.S. Putnam	xx	xx	68	94
+811	8	05/01/55	James Spray					22
+812	8	05/01/55	T.T. Wilkinson	T.T. Wilkinson;Index *;S. Watson *	8;8;8	Jul-55;Jul-55;Jul-55	xx;xx\;xx	41;;
+813	8	05/01/55	T.T. Wilkinson	T.T. Wilkinson;Index;S. Watson *	8;8;8	Jul-55;Aug-55;Jul-55	xx;xx;xx	41;;
+814	8	05/01/55	Anglicanus	Anglicanus;M. Roche;M. *;T.T. Wilkinson *	8;8;8;8	Jul-55;Jul-55;Jul-55;Jul-55	xx;xx;xx;xx	74;;;
+815	8	06/01/55	T.T. Wilkinson	T.T. Wilkinson	8	08/01/55	xx	9
+816	8	06/01/55	T.T. Wilkinson	T.T. Wilkinson;J. Knight;S. Watson *	8;8;8	Aug-55;Sep-55;Aug-55	xx;xx;xx	44;;
+817	8	06/01/55	Cantab	S. Younger;S. Watson;G. Carterfield *;Π *	8;8;8;8	Aug-55;Sep-55;Aug-55;Aug-55	xx;xx;xx;xx	3;;;
+818	8	06/01/55	Cantab	Cantab;S. Watson *	8;8	Sep-55;Aug-55	xx;xx	3;
+819	8	06/01/55	H.B.					41
+820	8	06/01/55	H.B.					41
+821	8	06/01/55	Mortimer Collins	J. Knight	8	09/01/55	xx	47
+822	8	06/01/55	Matthew Collins	Matthew Collins	11	06/01/58	U58	82
+823	8	06/01/55	R.H. Wright	G. Carterfield ;Unknown	8;8	Aug-55;Sep-55	xx;xx	75;
+824	8	07/01/55	W.R. Wright					79
+825	8	07/01/55	Burnliensis	Burnliensis;S. Watson *;T.T. Wilkinson *	8;8;8	Oct-55;Oct-55;Oct-55	xx;xx;xx	2;;
+826	8	07/01/55	S. Watson	S. Watson	8	10/01/55	xx	55
+827	8	07/01/55	James Spray	S. Watson;F.D.C. *	8;8	Oct-55;Oct-55	xx;xx	47;
+828	8	07/01/55	H.B.					52
+829	8	07/01/55	H.B.					52
+830	8	07/01/55	Matthew Collins	E.J. Nanson;θ.β. ;C.E. Youngman	55;xx;xx	2-Feb;xx;xx	77;82;95	41;;
+831	8	08/01/55	S. Watson	G. Carterfield;S. Watson	8;8	Nov-55;Dec-55	xx;xx	46;
+832	8	08/01/55	S. Watson	W.H. Levy;J. Burne *	8;8	Oct-55;Oct-55	Xx;	3;
+833	8	08/01/55	George Sanderson				U58	10
+834		Missing		G. Carterfield *;Sigma *	8;8	Oct-55;Oct-55	xx;xx	;
+835		Missing		G. Carterfield *;Sigma *	8;8	Oct-55;Oct-55	xx;xx	;
+836		Missing						
+837		Missing						
+838		Missing						
+839		Missing						
+840		Missing						
+841		Missing						
+842		Missing						
+843		Missing						
+844	8	08/01/55	Matthew Collins	Sigma;G. Carterfield;T. Pooley;E. Rutter;Anonymous *	8;8;8;8;8	Oct-55;Oct-55;Nov-55;Dec-55;Nov-55	U59;xx;xx;xx;xx	9;;;;
+845	8	08/01/55	Matthew Collins	Sigma;G. Carterfield;T. Pooley;E. Rutter;Anonymous *	8;8;8;8;8	Oct-55;Oct-55;Nov-55;Dec-55;Nov-55	xx;xx;xx;xx;xx	9;;;;
+846	8	09/01/55	G. Mitchell					11
+847	8	10/01/55	Matthew Collins	T.T. Wilkinson;Matthew Collins;G. Carterfield *;W.J. Miller *;S. Watson *;Mortimer Collins *	8;8;8;8;8;8	Dec-55;Dec-55;Nov-55;Nov-55;Dec-55;Dec-55	xx;xx;xx;xx;xx;xx	41;;;;;
+848	8	10/01/55	T.T. Wilkinson	T.T. Wilkinson	8	12/01/55	xx	41
+849	8	10/01/55	T.T. Wilkinson	T.T. Wilkinson;S. Watson	8;9	Dec-55;Jan-56	xx;xx	46;
+850	8	10/01/55	Theon	T.T. Wilkinson;S. Watson *	8;8	Dec-55;Dec-55	xx;xx	44;
+851	8	10/01/55	Theon	T.T. Wilkinson;S. Watson *	8;8	Dec-55;Dec-55	xx;xx	44;
+852	8	10/01/55	R.H. Wright	Unknown;T.T. Wilkinson;Daniel White;J.C. *	8;9;9;9	Nov-55;Jan-56;Mar-56;Apr-56	xx;xx;xx;xx	79;;;
+853	8	10/01/55	Matthew Collins	W.J. Miller	10	02/01/57	xx	41
+854	8	10/01/55	Matthew Collins	Matthews Collins	11	05/01/58		
