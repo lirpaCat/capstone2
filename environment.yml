@@ -1,4 +1,3 @@
-name: connected
 channels: !!python/object/new:ruamel_yaml.comments.CommentedSeq
   listitems:
   - spacy
