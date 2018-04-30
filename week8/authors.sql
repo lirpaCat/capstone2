@@ -1,0 +1,1 @@
+﻿COPY public.authors FROM '~/Desktop/CsCapstone/Practice/week8/1.csv' WITH (FORMAT csv);
