@@ -4,7 +4,9 @@ dependencies:
 - openssl=1.0.2l=0
 - pip=8.1.2=py35_0
 - python=3.5.2=0
-- scipy=0.18.0=np111py35_0
+- scipy=0.18.0
+- python==3.5.2=0
+- sqlite==3.20.1=2
 - pip
 - pip:
   - ipykernel==4.4.1
