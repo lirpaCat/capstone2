@@ -1,10 +1,9 @@
 dependencies:
-- mkl=11.3.3=0
-- numpy=1.11.1=py35_0
-- openssl=1.0.2l=0
+- mkl
+- numpy
 - sqlite
 - pip
 - pip:
-  - matplotlib==1.5.2
+  - matplotlib
   - networkx
-  - pandas==0.18.1
+  - pandas
