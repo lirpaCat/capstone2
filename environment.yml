@@ -6,9 +6,6 @@ dependencies:
 - sqlite
 - pip
 - pip:
-  - ipykernel==4.4.1
   - matplotlib==1.5.2
   - networkx
-  - notebook==4.2.2
   - pandas==0.18.1
-  - python-dateutil==2.5.3
