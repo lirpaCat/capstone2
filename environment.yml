@@ -2,7 +2,6 @@ dependencies:
 - mkl=11.3.3=0
 - numpy=1.11.1=py35_0
 - openssl=1.0.2l=0
-- scipy=0.18.0
 - sqlite
 - pip
 - pip:
